@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown | nomaad.github.io</title>
+    <link>/tags/markdown/</link>
+      <atom:link href="/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markdown</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de-ch</language><lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Markdown</title>
+      <link>/tags/markdown/</link>
+    </image>
+    
+    <item>
+      <title>My setup for academic writing</title>
+      <link>/post/academic-writing-setup/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/post/academic-writing-setup/</guid>
+      <description>&lt;p&gt;In the past few months I was trying to figure out, how to organize myself in academia for my studies. Especially I wanted to find a neat workflow to quickly take notes during lectures, organize literature and write papers, while not having to deal too much with tedious formatting of citations in specific citation styles or having to struggle with the layout of word documents. Meanwhile I have found a setup, which works pretty well for me. In this post I will have an indepth look at it, while trying to explain everything in a way that is also understandable by non-techies.&lt;/p&gt;
+&lt;p&gt;Before going into details, here is an overview of tools I use:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://atom.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atom.io&lt;/a&gt; editor (to take lecture notes or write papers in 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Markdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.zotero.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero&lt;/a&gt; (reference manager) with:
+&lt;ul&gt;
+&lt;li&gt;Zotero Connector (to import references, integrated in Zotero)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://retorque.re/zotero-better-bibtex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Better BibTex-Addon&lt;/a&gt; for Zotero (to generate better citekeys)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.alfredapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AlfredApp&lt;/a&gt; (launcher for Mac) with:
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/deanishe/zothero&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ZotHero-Plugin&lt;/a&gt; (to access Zotero references on the fly)&lt;/li&gt;
+&lt;li&gt;A custom workflow to search Worldcat.org from Alfred&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://pandoc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pandoc&lt;/a&gt; (to convert markdown to Word/PDF/HTML)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.literatureandlatte.com/scrivener/overview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scrivener&lt;/a&gt; (to write longer essays, papers or thesis)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-Studio&lt;/a&gt; with 
+&lt;a href=&#34;https://github.com/rstudio/blogdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blogdown-Package&lt;/a&gt; &amp;amp; 
+&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; as hosting platform (for blogging)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I will not cover Scrivener and R-Studio/Blogdown in this post (maybe in a follow up). But let&amp;rsquo;s break the rest of it down into parts.&lt;/p&gt;
+&lt;h1 id=&#34;what-is-markdown&#34;&gt;What is Markdown?&lt;/h1&gt;
+&lt;p&gt;Markdown is a lightweight markup language for text-formatting. If you never heard about it, maybe you are familiar with the formatting of whatsapp-messages: You can use asteriks &lt;code&gt;*to make text bold*&lt;/code&gt; or underlines &lt;code&gt;_to make text italic_&lt;/code&gt;. The syntax in markdown is a bit different, but the principle is the same. Except that markdown is way more powerful.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s have a look at the following markdown-code:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+# This is a level-one heading
+
+This is some random paragraph with **bold** and *italic* words.
+
+[This is a link](http://www.to_url.com)
+
+## This is a level-two heading
+
+This is a list:
+
+- Item 1
+- Item 2
+- Item 3
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;When this markdown code is rendered to HTML, it will look like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;markdown.png&#34; alt=&#34;Rendered markdown-code&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Why did I chose markdown? Here are a few reasons:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I wanted my note-taking and writing system to be as &lt;strong&gt;lightweight&lt;/strong&gt; as possible. This means: plain text files, my own folder structure, lightweight editors, no endless clicking around, no painful formatting of documents.&lt;/li&gt;
+&lt;li&gt;I wanted my environement to be &lt;strong&gt;independent&lt;/strong&gt; from specific software and use as much open formats and software as possible (I used Evernote before to take notes during my bachelor studies, which has it&amp;rsquo;s advantages too, but then you are stuck with that specific software)&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s &lt;strong&gt;powerful&lt;/strong&gt;. In combination with other tools like Pandoc, markdown can be converted to other documents like PDF/Word/HTML and others, while cited references get resolved or even linked automatically in your prefered citation style (we&amp;rsquo;ll get into that later).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you want to learn markdown, you might want to check 
+&lt;a href=&#34;https://www.markdownguide.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.markdownguide.org&lt;/a&gt; or 
+&lt;a href=&#34;https://www.markdowntutorial.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.markdowntutorial.com&lt;/a&gt;. Also, if you want to give markdown a quick try, you can use this online markdown editor: 
+&lt;a href=&#34;https://dillinger.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dillinger.io&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To explain all the steps from markdown to formated paper with citations and bibliography in the prefered style, let&amp;rsquo;s have a look at an example.&lt;/p&gt;
+&lt;h1 id=&#34;writing-papers-in-markdown&#34;&gt;Writing papers in Markdown&lt;/h1&gt;
+&lt;p&gt;My favourite editor for text is 
+&lt;a href=&#34;https://atom.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atom.io&lt;/a&gt;. Atom is not a dedicated markdown-editor but rather a very sophisticated and extendable editor mostly used for computer programming. It is tweakable for distraction free markdown-writing with atom-packages like 
+&lt;a href=&#34;https://atom.io/packages/Zen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zen&lt;/a&gt;, 
+&lt;a href=&#34;https://atom.io/packages/Typewriter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Typewriter&lt;/a&gt; and 
+&lt;a href=&#34;https://atom.io/packages/Wordcount&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wordcount&lt;/a&gt;. If you don&amp;rsquo;t want to use Atom, there are plenty other dedicated markdown editors, like the fancier 
+&lt;a href=&#34;https://ulysses.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ulysses&lt;/a&gt; or the minimal 
+&lt;a href=&#34;https://bywordapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ByWord&lt;/a&gt; for Mac.&lt;/p&gt;
+&lt;p&gt;Back to the specific example. While writing, my response paper will look something like this in Atom:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;response_paper.png&#34; alt=&#34;Response paper&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The section on top (with the title, subtitle and author attributes) is a YAML-header. This is not part of native markdown syntax. It is used for transforming the paper to othter formats with Pandoc - we&amp;rsquo;ll get to this later. Before that, let&amp;rsquo;s have a look on how to manage references.&lt;/p&gt;
+&lt;h1 id=&#34;managing-references-with-zotero&#34;&gt;Managing references with Zotero&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.zotero.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero&lt;/a&gt; is a free and open-source reference management software to manage bibliographic data and related research materials. Zotero knows different types of references like books, book sections, journal articels, webpages and more. Also you can save your PDF&amp;rsquo;s directly into Zotero.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;zotero.png&#34; alt=&#34;Zotero&#34;&gt;&lt;/p&gt;
+&lt;p&gt;On of it&amp;rsquo;s strenghts is the easyness of reference collection. If you have a collection of existing PDF&amp;rsquo;s, you can drag &amp;amp; drop them into Zotero and it will attempt to resolve the reference automatically by using the document metadata and online catalogues.&lt;/p&gt;
+&lt;p&gt;Another way of getting references into Zotero is with the 
+&lt;a href=&#34;https://www.zotero.org/download/connectors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero Connector&lt;/a&gt;. With this browser addon you can import references into Zotero directly from your browser while searching catalogues. Need that journal article from JSTOR? It&amp;rsquo;s only one click away:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;zotero_connector.png&#34; alt=&#34;Zotero Connector&#34;&gt;&lt;/p&gt;
+&lt;p&gt;And if the publication is open access or accessible for your university network, Zotero will not only import the reference but also the article as PDF:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;zotero_added.png&#34; alt=&#34;Zotero PDF&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Now that we have our references in Zotero, how can we get them into our markdown code?&lt;/p&gt;
+&lt;h1 id=&#34;access-references-from-markdown&#34;&gt;Access references from Markdown&lt;/h1&gt;
+&lt;p&gt;In order to access our Zotero references, they have to be identifiable by a unique citekey. As far as I know, Zotero provides this somehow by default, but it is recommended to use an add-on called 
+&lt;a href=&#34;https://retorque.re/zotero-better-bibtex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Better BibTex&lt;/a&gt;: &amp;ldquo;Better BibTex makes it easier to manage bibliographic data, especially for people authoring documents using text-based toolchains (e.g. based on LaTeX / Markdown).&amp;rdquo; (from the official website).&lt;/p&gt;
+&lt;p&gt;Better BibTex needs to be configured in Zotero (&lt;code&gt;Zotero-&amp;gt;Preferences-&amp;gt;Better BibTex&lt;/code&gt;). The most important setting is the format of the citekey. I use the following:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;better_bibtex.png&#34; alt=&#34;Better BibTex&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This will generate an unique citekey for every reference:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;citekeys.png&#34; alt=&#34;Citekeys&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This keys we will use in our markdown code to create citations. The format for a citation uses square brackets and an @ before the citekey, eg.:&lt;code&gt;[@citekey]&lt;/code&gt;. To access Marcuses book displayed in the screenshot on top, we would use &lt;code&gt;[@Marcuse1979]&lt;/code&gt;. If we want to cite a specific page within the book, we can add a semicolon and a page number. In Atom this looks as follows:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;citekey_atom.png&#34; alt=&#34;Atom citekey&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Fair enough, we have referenced Marcuse. But with the current setup, we still have to switch back and forth between Zotero and our markdown editor, remember the citekey and then manually write it down in markdown. Wouldn&amp;rsquo;t it be easier  access the Zotero references on the fly from our markdown editor? Let&amp;rsquo;s have a look at Alfred and the ZotHero plugin.&lt;/p&gt;
+&lt;h1 id=&#34;from-zotero-to-markdown-with-alfred&#34;&gt;From Zotero to Markdown with Alfred&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.alfredapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alfred&lt;/a&gt;  is an univeral launcher app for Mac. It is basically used by nerds like me to access everything on their computer without using the mouse. The default keyboard shortcut to open the Alfred launcher from everywhere on a Mac is &lt;code&gt;Cmd ⌘ + Space&lt;/code&gt;. When the launcher is opened, you can access apps, find files or do countless other things. As an example, that&amp;rsquo;s how it looks like when I want to start or open Zotero with Alfred:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;alfred.png&#34; alt=&#34;Alfred&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The paid version of Alfred is extendable with plugins and workflows. I use a plugin called
+&lt;a href=&#34;https://github.com/deanishe/zothero&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ZotHero&lt;/a&gt; in order to access my Zotero references through Alfred. ZotHero allows full-text search across your Zotero database. It also allows you to copy citations or formatted references in a specific 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Citation_Style_Language&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;citation style&lt;/a&gt;. Unfortunately the paid version of Alfred is needed for ZotHero.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Warning:&lt;/strong&gt; &lt;em&gt;This part is a bit experimental and a workaround. If you have a better solution, let me know.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Zotero uses to uses specific citation styles (CSL-files) to format citations in APA, MLA, Chicago or other styles. The problem I encountered was, that I didn&amp;rsquo;t want ZotHero to provide me a neatly formated citation in APA or MLA, but rather a generic citation key for Pandoc as seen before (&lt;code&gt;[@citekey]&lt;/code&gt;). So I tweaked an existing CSL file to format citations in that way. This is a &lt;strong&gt;hack&lt;/strong&gt; and problems might occur: Better BibText removes german Umlauts like ä/ö/ü - but with CSL this is not possible as far as I know. So, from a referenc by author &amp;ldquo;Spät&amp;rdquo; of year 2016, Better BibTex will create the citekey &lt;code&gt;Spaet2016&lt;/code&gt; but the ZotHero workaround will create &lt;code&gt;Spät2016&lt;/code&gt;. Pandoc will not be able to resolve this, so you have to be aware and correct it manually while writing, which is a bit ugly.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Alternatively you could ditch Alfred completely and use another solution like the 
+&lt;a href=&#34;https://github.com/davepwsmith/zotpick-applescript&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ZotPick Applescript&lt;/a&gt; as descriped in 
+&lt;a href=&#34;https://raphaelkabo.com/blog/posts/markdown-to-word/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this post&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Long story short, if you want to use my hack and Alfred, you can download the CSL-file 
+&lt;a href=&#34;bibtex-style.csl&#34;&gt;here&lt;/a&gt;. You then have to add it to Zotero (&lt;code&gt;Zotero-&amp;gt;Preferences-&amp;gt;Citations&lt;/code&gt;):&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bibtex-style.png&#34; alt=&#34;BibTex style&#34;&gt;&lt;/p&gt;
+&lt;p&gt;After adding it to Zotero, you need to make it the default CSL for ZotHero:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;zothero_bibtex.png&#34; alt=&#34;ZotHero BibTex&#34;&gt;&lt;/p&gt;
+&lt;p&gt;By now, you should be able to search your Zotero references directly from Alfred and generate a citekey. This means, in Atom you can open Alfred with &lt;code&gt;Cmd ⌘ + Space&lt;/code&gt;, then type the shortcut &lt;code&gt;zot&lt;/code&gt; to start searching your Zotero database, followed by your search term:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;zothero_search.png&#34; alt=&#34;ZotHero Search&#34;&gt;&lt;/p&gt;
+&lt;p&gt;When you found the reference, you can copy the citekey to clipboard with &lt;code&gt;Cmd ⌘ + Enter&lt;/code&gt; and paste it into your editor:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;zothero_result.png&#34; alt=&#34;ZotHero Result&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Yay. But wait. Right now you probably still think: &lt;em&gt;&amp;ldquo;Why all this struggle? I could have done this much easier in Word.&amp;quot;&lt;/em&gt; Let&amp;rsquo;s dive into the fun part.&lt;/p&gt;
+&lt;h1 id=&#34;converting-markdown-to-word-with-pandoc&#34;&gt;Converting Markdown to Word with Pandoc&lt;/h1&gt;
+&lt;p&gt;Let&amp;rsquo;s recap: We have a paper written in markdown with unique citekeys pointing to our references managed in Zotero. But it&amp;rsquo;s still in makdown and can&amp;rsquo;t be submitted like this. So let&amp;rsquo;s convert it to Word and/or PDF with 
+&lt;a href=&#34;https://pandoc.org/MANUAL.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pandoc&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In order to do this you need to 1) install Pandoc and 2) tell Better BibTex for Zotero to permanently export and update your reference library as a &lt;code&gt;*.bib&lt;/code&gt;-File.&lt;/p&gt;
+&lt;p&gt;Firstly, to install Pandoc, follow the 
+&lt;a href=&#34;https://pandoc.org/installing.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;installation instructions&lt;/a&gt; on the official website.&lt;/p&gt;
+&lt;p&gt;Secondly, open your Better BibTex preferencens in Zotero and switch to the tab &amp;ldquo;Automatic Export&amp;rdquo; (&lt;code&gt;Zotero-&amp;gt;Preferences-&amp;gt;Better BibTex-&amp;gt;Automatic Export&lt;/code&gt;). Setup the automatic export to a path, which you remember (you need this for Pandoc) and set it to automatically update on change:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;automatic_export.png&#34; alt=&#34;Export&#34;&gt;&lt;/p&gt;
+&lt;p&gt;You are now ready to use Pandoc. Pandoc is basically run from the command line. If you don&amp;rsquo;t want to call Pandoc from terminal, you can use Automator (built-in with every Mac) with the &lt;code&gt;Run shell script&lt;/code&gt;-block to create an application to drag &amp;amp; drop markdown files onto for conversion.&lt;/p&gt;
+&lt;p&gt;For command line conversion I use this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ pandoc my_document.md
+-s
+--from markdown+smart+escaped_line_breaks
+--to docx
+--resource-path ./
+--filter pandoc-citeproc  
+--bibliography /path/to/your/library.bib
+--csl /path/to/your/citation_style.csl
+--reference-doc /path/to/your/word_template.docx
+-o output.docx
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Let&amp;rsquo;s have a look at the arguments:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;my_document.md&lt;/code&gt; - the markdown file you want to convert&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-s&lt;/code&gt; - use standalone mode&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--from markdown+smart+escaped_line_breaks&lt;/code&gt; - the source format is markdown (with some tweaks)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--to docx&lt;/code&gt; - We want a Word document as the target format&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--resource-path ./&lt;/code&gt; - search the current folder for ressources (eg. linked images in markdown code)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--filter pandoc-citeproc&lt;/code&gt; - use pandoc-citeproc as filter. This will convert the citekeys to neatly formatted citations and ad a bibliography at the end of the resulting word document&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--bibliography /path/to/your/library.bib&lt;/code&gt;- this path must point to the bibliography file that we just created from Better BibTex with the automatic export&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--csl /path/to/your/citation_style.csl&lt;/code&gt; - points to a CSL-file with the desired style definition (eg. APA, MLA , Chicago or a specific style used by your university). I use 
+&lt;a href=&#34;uni-basel-soziologie.csl&#34;&gt;this CSL&lt;/a&gt; which I tweaked to match (hopefully) the guidelines of the sociological institute of the University of Basel. You can find general information about styles on 
+&lt;a href=&#34;https://citationstyles.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;citationstyles.org&lt;/a&gt; and specific styles on the 
+&lt;a href=&#34;https://github.com/citation-style-language/styles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSL style repository on Github&lt;/a&gt; or the 
+&lt;a href=&#34;https://www.zotero.org/styles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero style repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--reference-doc /path/to/your/word_template.docx&lt;/code&gt;- optionally, you can use a word template, which will be used to format your document. I use 
+&lt;a href=&#34;pandoc-template-essay.docx&#34;&gt;this one&lt;/a&gt; provided by a nice tool called &lt;em&gt;Docdown&lt;/em&gt; by 
+&lt;a href=&#34;https://raphaelkabo.com/blog/posts/introducing-docdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Raphael Kabo&lt;/a&gt;, which actually bundles all of this Pandoc conversion done here in a small app. If you don&amp;rsquo;t want to mess with the terminal app, use this. Actually a lot of what I do here is inspired by 
+&lt;a href=&#34;https://raphaelkabo.com/blog/posts/markdown-to-word/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Raphaels&lt;/a&gt; 
+&lt;a href=&#34;https://raphaelkabo.com/blog/posts/introducing-docdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;posts&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-o output.docx&lt;/code&gt; - the name of the resulting file&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let&amp;rsquo;s call Pandoc now to convert the paper. That&amp;rsquo;s what it will look like at the end:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;word_output.png&#34; alt=&#34;Word output&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Here we go, a nicely formatted paper. From Word you can create a PDF as usual (it could be done directly with Pandoc too, but I usually do it via Word). In the same way I used Pandoc to create a Word document now, it could also be used to create HTML or again a markdown document but with resolved citations and a bibliography in a specific citation style. This allows me to transform the same markdown document 1) to a PDF for submission to a lecturer and 2) to a publishable markdown document for my blog, like I did with my 
+&lt;a href=&#34;../../categories/essays&#34;&gt;essays&lt;/a&gt;. But more on that probably in a later post.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

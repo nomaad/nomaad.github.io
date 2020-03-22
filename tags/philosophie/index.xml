@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philosophie | nomaad.github.io</title>
+    <link>/tags/philosophie/</link>
+      <atom:link href="/tags/philosophie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philosophie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de-ch</language><lastBuildDate>Mon, 30 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Philosophie</title>
+      <link>/tags/philosophie/</link>
+    </image>
+    
+    <item>
+      <title>Queer-Theory und das psychophysische Problem</title>
+      <link>/post/queer-theory-und-das-psychophysische-problem/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/post/queer-theory-und-das-psychophysische-problem/</guid>
+      <description>&lt;p&gt;Die Unterscheidung von biologischem Geschlecht (sex) und sozialem
+Geschlecht (gender) wurde von feministischen Theoretiker*innen
+eingeführt. Dabei wurde &lt;em&gt;sex&lt;/em&gt; der Sphäre der unveränderlichen Natur und
+&lt;em&gt;gender&lt;/em&gt; der Sphäre der veränderlichen Kultur zugeordnet. Judith Butler
+hinterfragte diese Trennung und theoretisierte auch das biologische
+Geschlecht als eine immer schon diskursiv durch Kultur geformte
+Kategorie (Butler 
+&lt;a href=&#34;#ref-Butler1991&#34;&gt;1991&lt;/a&gt;). Dies brachte ihr von
+radikalen Feministinnen die Kritik ein, dass sie Frauen mit ihrem
+Dekonstruktivismus entkörpere und generell mit ihrer
+konstruktivistischen Theorie die Natur oder Materialität zu wenig
+berücksichtige (vgl. bspw. Duden 
+&lt;a href=&#34;#ref-Duden1993&#34;&gt;1993&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Diese Debatten zu Natur und Kultur berühren meines Erachtens im Kern das
+“psychophysische Problem”. Unter diesem Begriff versteht man in der
+Philosophie die Frage nach dem Verhältnis von Leib und Seele, bzw.
+Körper und Geist, bzw. Materie und Bewusstsein. Ich will in diesem Essay
+für zwei spezifische Queer-Theoretiker*innen erörtern, welches
+Verständnis des psychophysischen Problems implizit in ihren Theorien
+steckt und gehe der Frage nach, wieso solch eine Reflexion für die
+Queer-Theory relevant ist. Ich wähle Judith Butler und Anne
+Fausto-Sterling, weil beide den sex-gender-Dualismus zu überwinden
+versuchen, was sie für mein Vorhaben besonders interessant macht. Der
+Text ist wie folgt aufgebaut: Ich führe (1), soweit wie für das weitere
+Verständnis nötig, in das psychophysische Problem ein und skizziere die
+gängigsten von der Philosophie vorgeschlagenen Lösungen dafür. Danach
+arbeite ich (2) anhand einiger Aussagen für beide Theoretiker*innen
+heraus, welche Lösung des psychophysischen Problems meiner Meinung nach
+implizit in ihren Theorien steckt. Schliesslich beantworte ich (3) die
+aufgeworfene Frage nach der Relevanz dieser Reflexion für die
+Queer-Theory.&lt;/p&gt;
+&lt;h2 id=&#34;das-psychophysische-problem-und-seine-lösungen&#34;&gt;Das psychophysische Problem und seine “Lösungen”&lt;/h2&gt;
+&lt;p&gt;Beim psychophysischen Problem geht es um die Frage, wie die Welt des
+Bewusstseins und die Welt der Materie zusammenhängen. Dieses Problem ist
+sehr alt und beschäftigte Menschen als die Frage nach dem Verhältnis von
+Leib und Seele oder von Körper und Geist seit der Antike. Wir erleben
+unser Dasein als in zwei Welten getrennt. Einerseits haben wir
+subjektive Erlebnisse: Unser Denken, Fühlen und Erleben hat eine
+bestimmte subjektive Qualität. Es fühlt sich auf eine bestimmte Weise
+an, etwas Rotes zu sehen oder Schokolade zu schmecken. Philosoph*innen
+bezeichnen diese erlebten Geistesinhalte als &lt;em&gt;Qualia&lt;/em&gt;. Andererseits
+scheint auch eine physische oder objektive Welt gegeben, in welcher wir
+Dinge vermessen oder in welcher wir voraussehen können, was passiert,
+wenn ein Stein in eine Fensterscheibe geworfen wird. Die beiden Welten
+sind miteinander verwoben: Wenn ich mir im Geiste vornehme, dass ich
+meinen Arm hebe um einen Stein zu werfen, dann macht dies mein Arm in
+der Regel und ich sehe den Stein fliegen. Umgekehrt hat die materielle
+Welt auch auf mein subjektives Erleben einen Einfluss, etwa dann, wenn
+ich über einen Stein stolpere und auf den Boden pralle, was sich dann
+subjektiv als Schmerzempfindung äussert.&lt;/p&gt;
+&lt;p&gt;In der Philosophie werden verschiedene Typen von Lösungen des psychophysischen
+Problems unterschieden: Im &lt;em&gt;Idealismus&lt;/em&gt; wird die Position
+vertreten, dass alles fundamental geistig ist (Chalmers
+
+&lt;a href=&#34;#ref-Chalmers2018&#34;&gt;2018&lt;/a&gt;). Beispiele für Idealismen sind etwa die
+christliche Genesis,&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; Platos Ideenlehre oder der deutsche Idealismus
+von Kant bis Hegel und seiner Vorstellung eines Weltgeistes. Gemeinsam
+ist diesen Theorien, dass sie Bewusstsein als primäre Ursache erachten,
+aus welcher Materie hervorgeht. Der Idealismus tut sich jedoch schwer
+damit, erklären zu können, wieso eine kohärente physische Welt besteht.
+Im &lt;em&gt;Materialismus&lt;/em&gt; (oder Physikalismus) wird postuliert, dass alles
+fundamental materiell ist (Chalmers 
+&lt;a href=&#34;#ref-Chalmers2013&#34;&gt;2013&lt;/a&gt;: 3). Dazu
+gehört der grösste Teil der Naturwissenschaften, zum Beispiel die
+Neurowissenschaften, welche Bewusstsein vereinfacht gesagt als Produkt
+von elektrischen Impulsen im Gehirn erklären wollen. Auch Marx’ Theorie,
+in welcher er Hegels Idealismus auf den Kopf gestellt hat, ist
+materialistisch.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; Gemeinsam ist diesen Theorien, dass sie Materie als
+primäre Ursache erachten, aus welcher Bewusstsein hervorgeht. Der
+Materialismus tut sich schwer, zu erklären, wie aus Materie subjektive
+Erfahrungsinhalte entstehen können. Materialismus und Idealismus sind
+beides &lt;em&gt;Monismen&lt;/em&gt;, welche ein einziges Seinsprinzip postulieren, aus
+welchem alles andere hervorgeht. Im Gegensatz dazu wird im &lt;em&gt;Dualismus&lt;/em&gt;
+postuliert, dass nicht alles fundamental materiell ist und deshalb
+alles, was nicht fundamental materiell ist, fundamental geistig ist
+(Chalmers 
+&lt;a href=&#34;#ref-Chalmers2013&#34;&gt;2013&lt;/a&gt;: 3). Es werden also zwei komplett
+verschiedene Seinsprinzipien postuliert. Der bekannteste Vertreter
+dieser Position ist Descartes, nach welchem der “cartesianische
+Dualismus” benannt ist. Dualistische Positionen tun sich schwer zu
+erklären, wie die beiden getrennten Welten miteinander interagieren
+können. Nebst oben erwähnten idealistischen und materialistischen
+Monismen, gibt es noch &lt;em&gt;neutrale Monismen&lt;/em&gt;, welche postulieren, dass
+alles immer gleichzeitig materielle &lt;em&gt;und&lt;/em&gt; geistige Eigenschaften
+besitzt. Das würde jedoch bedeuten, dass auch kleinste Elementarteilchen
+bereits geistige Eigenschaften haben, wie dies beispielsweise im
+Panpsychismus als Spielart des neutralen Monismus der Fall ist (vgl.
+Chalmers 
+&lt;a href=&#34;#ref-Chalmers2013&#34;&gt;2013&lt;/a&gt;; Spät 
+&lt;a href=&#34;#ref-Spaet2010&#34;&gt;2010&lt;/a&gt;,
+
+&lt;a href=&#34;#ref-Spaet2016&#34;&gt;2016&lt;/a&gt;). Eine ähnliche Position eines neutralen Monismus
+ist bei Bateson zu finden (vgl. Bateson 
+&lt;a href=&#34;#ref-Bateson2000&#34;&gt;2000&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Ohne hier vertieft darauf einzugehen kann festgehalten werden, dass keiner der Lösungsvorschläge abschliessend plausibel ist und alle neue Widersprüche erzeugen (vgl. Chalmers 
+&lt;a href=&#34;#ref-Chalmers1998&#34;&gt;1998&lt;/a&gt;: 28).&lt;/p&gt;
+&lt;h2 id=&#34;das-psychophysische-problem-bei-judith-butler-und-anne-fausto-sterling&#34;&gt;Das psychophysische Problem bei Judith Butler und Anne Fausto-Sterling&lt;/h2&gt;
+&lt;p&gt;Im Folgenden versuche ich, einen Einblick ins Verständnis vom
+Geist-Materie-Verhältnis bei Judith Butler und Anne Fausto-Sterling zu
+erlangen und ihre Positionen den oben geschilderten “Lösungen” für das
+psychophysische Problem zuzuordnen.&lt;/p&gt;
+&lt;p&gt;Butler kritisiert an der bisherigen feministischen Theorie, dass das
+feministische Subjekt durch die Unterscheidung von anatomischem
+Geschlecht (sex) und Geschlechtsidentität (gender) aufgespalten wird
+(Butler 
+&lt;a href=&#34;#ref-Butler1991&#34;&gt;1991&lt;/a&gt;: 22). Nach Butler ist auch &lt;em&gt;sex&lt;/em&gt; als
+Kategorie genau wie &lt;em&gt;gender&lt;/em&gt; diskursiv konstruiert und dient der
+Legitimation und Stabilisierung des heteronormativen Geschlechterrahmens
+(Butler 
+&lt;a href=&#34;#ref-Butler1991&#34;&gt;1991&lt;/a&gt;: 24). Diesen Standpunkt vertritt Butler
+auch in ihrer Antwort auf die Kritik, dass sie “die Frauen entkörpere”
+(Duden 
+&lt;a href=&#34;#ref-Duden1993&#34;&gt;1993&lt;/a&gt;): In &lt;em&gt;Bodies that matter&lt;/em&gt; schreibt sie,
+dass die sich ständig wiederholende Macht des Diskurses diejenigen
+Phänomene hervorbringt, welche sie reguliert und restringiert (Butler
+
+&lt;a href=&#34;#ref-Butler1993&#34;&gt;1993&lt;/a&gt;: 22). Materie ist somit immer etwas zu Materie
+gewordenes und ein Effekt von diskursiver Macht.&lt;/p&gt;
+&lt;p&gt;Butler wendet sich also in ihrer Argumentation gegen die strikte
+Trennung von &lt;em&gt;sex&lt;/em&gt; und &lt;em&gt;gender&lt;/em&gt; und damit gegen eine dualistischen
+Position, welche Materie und Geist in zwei völlig verschiedenen Sphären
+ansiedelt. Materialität wird bei Butler performativ in Diskursen
+hergestellt. Ein Diskurs kann als Produkt von geistiger Aktivität
+verstanden werden. Dass Geist die Materie hervorbringt ist wiederum die
+Position des Idealismus. Ich würde deshalb Butlers Theorie als
+idealistische bezeichnen.&lt;/p&gt;
+&lt;p&gt;Auch Anne Fausto-Sterling, eine Biologin und Queer-Theoretikerin,
+kritisiert wie Butler die fundamentale Trennung von Natur und Kultur und
+wendet sich explizit gegen Dualismen. Im Gegensatz zu Butler plädiert
+sie jedoch dafür, Materie/Natur und Diskurs/Kultur als untrennbare
+Einheit gleichsam ernst zu nehmen (Fausto-Sterling
+
+&lt;a href=&#34;#ref-Fausto-Sterling2000&#34;&gt;2000&lt;/a&gt;: 20). Fausto-Sterling wendet sich gegen
+stark konstruktivistische Perspektiven, denn diese würden tendenziell
+die Biologie exkludieren und eine feministische Kritik vom Körper oder
+hormonellen Strukturen undenkbar machen (Fausto-Sterling
+
+&lt;a href=&#34;#ref-Fausto-Sterling2000&#34;&gt;2000&lt;/a&gt;: 22). Sie geht also mit Butler einig,
+dass auch &lt;em&gt;sex&lt;/em&gt; diskursiv geprägt ist, weist aber darauf hin, dass
+Domänen der Biologie, Anatomie, Physiologie, Krankheit, Alter, Leben und
+Tod nicht negiert werden können (Fausto-Sterling
+
+&lt;a href=&#34;#ref-Fausto-Sterling2000&#34;&gt;2000&lt;/a&gt;: 23). In Anlehnung an (Grosz
+
+&lt;a href=&#34;#ref-Grosz2011&#34;&gt;2011&lt;/a&gt;) schreibt Fausto-Sterling im Gegensatz zu Butler
+biologischen Prozessen einen Status zu, welcher &lt;em&gt;vor&lt;/em&gt; ihrer Bedeutung
+existiert. (Fausto-Sterling 
+&lt;a href=&#34;#ref-Fausto-Sterling2000&#34;&gt;2000&lt;/a&gt;: 23). Aber
+Rohmaterial an sich ist nie genug und muss in Bedeutung organisiert
+werden (Fausto-Sterling 
+&lt;a href=&#34;#ref-Fausto-Sterling2000&#34;&gt;2000&lt;/a&gt;: 26). Damit
+postuliert sie eine Einheit von Materie und Geist. Dass Geist und Materie gleichsam
+eine fundamentale Einheit bilden, ist identisch mit der Position eines neutralen
+Monismus. Ich würde deshalb Fausto-Sterlings Theorie als neutral
+monistische bezeichnen.&lt;/p&gt;
+&lt;h2 id=&#34;zur-relevanz-des-psychophysischen-problems-für-die-queer-theory&#34;&gt;Zur Relevanz des psychophysischen Problems für die Queer-Theory&lt;/h2&gt;
+&lt;p&gt;Welches Fazit lässt sich aus dieser Erkenntnis ziehen? Die Aufteilung in
+&lt;em&gt;sex&lt;/em&gt; und &lt;em&gt;gender&lt;/em&gt; entsprechen einem Dualismus. Folgt man der
+philosophischen Kritik an dualistischen Positionen, problematisieren
+Butler und Fausto-Sterling diese Trennung zurecht, denn sie erschwert
+die Theoretisierung der Verwobenheit von &lt;em&gt;sex&lt;/em&gt; und &lt;em&gt;gender&lt;/em&gt;. Butler
+kippt mit ihrer Theorie in eine idealistische Richtung, welche zu einem
+Anti-Realismus tendiert und die relativ stabile Kohärenz der Welt nicht
+erklären kann, wie dies vielen poststrukturalistischen und
+dekonstruktivistischen Theorien gemein ist. Aus dieser Perspektive ist
+auch verständlich, wieso gerade marxistische Theoretiker*innen Butler
+kritisieren, denn sie verfolgen eine materialistische Position. Mit der
+Wichtigkeit von Butler und anderen Poststrukturalist*innen für die
+Queer-Theory (z.B. Foucault ), tendiert diese insgesamt zum Idealismus.
+Positionen wie die neutral monistische von Fausto-Sterling, welche
+einerseits Dualismen überwinden, andererseits auch ein Gegengewicht zum
+Idealismus bieten, erachte ich deshalb für die Queer-Theory als
+relevant. Ein neutraler Monismus scheint mir die Problematiken der
+Einseitigkeiten von Idealismus und Materialismus am am ehesten
+überwinden zu können, ohne sich in dualistische Abspaltungen zu
+verstricken. Einen neutralen Monismus zu postulieren bedeutet aber,
+geistige Eigenschaften in sämtlicher Materie anzunehmen, also bereits in
+Elementarteilchen. Ein solch geistiges Universum wiederum klingt für den
+(natur-)wissenschaftlich aufgeklärten Menschen möglicherweise
+befremdlich. Welche Lösung für das psychophysische Problem die Beste
+ist, bleibt auch nach über zweitausend Jahren Denkarbeit unklar. Nicht
+von ungefähr hat sich deshalb der von David Chalmers eingeführte Begriff
+“the hard problem” (Chalmers 
+&lt;a href=&#34;#ref-Chalmers1998&#34;&gt;1998&lt;/a&gt;) als Synonym für
+das psychophysische Problem etabliert.&lt;/p&gt;
+&lt;h2 id=&#34;literatur&#34;&gt;Literatur&lt;/h2&gt;
+&lt;div id=&#34;refs&#34; class=&#34;references&#34; markdown=&#34;1&#34;&gt;
+&lt;div id=&#34;ref-Bateson2000&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Bateson, Gregory (2000): &lt;em&gt;Geist und Natur: eine notwendige Einheit&lt;/em&gt;.
+Hans Günter Holl(ed.): Frankfurt am Main: Suhrkamp.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Butler1991&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Butler, Judith (1991): &lt;em&gt;Das Unbehagen der Geschlechter&lt;/em&gt;. Frankfurt am
+Main: Suhrkamp.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Butler1993&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;——— (1993): &lt;em&gt;Bodies That Matter on the Discursive Limits of &amp;ldquo;Sex&amp;rdquo;&lt;/em&gt;. New
+York: Routledge.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Chalmers1998&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Chalmers, David J. (1998): “Facing up to the Problem of Consciousness.”
+in: Jonathan Shear(ed.): &lt;em&gt;Explaining Consciousness: The Hard Problem.&lt;/em&gt;,
+Cambridge: Mit Press.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Chalmers2013&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;——— (2013): “Panpsychism and Panprotopsychism.”&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Chalmers2018&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;——— (2018): “Idealism and the Mind-Body Problem.” in: William
+Seager(ed.): &lt;em&gt;The Routledge Handbook of Panpsychism&lt;/em&gt;, New York:
+Routledge.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Duden1993&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Duden, Barbara (1993): “Die Frau Ohne Unterleib: Zu Judith Butlers
+Entkörperung.” &lt;em&gt;Feministische Studien&lt;/em&gt; 11(2): 24–33.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Fausto-Sterling2000&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Fausto-Sterling, Anne (2000): &lt;em&gt;Sexing the Body: Gender Politics and the
+Construction of Sexuality&lt;/em&gt;. New York: Basic Books.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Grosz2011&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Grosz, Elizabeth (2011): &lt;em&gt;Volatile Bodies Toward a Corporeal Feminism&lt;/em&gt;.
+Bloomington: Indiana University Press.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Marx1968&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Marx, Karl &amp;amp; Engels, Friedrich (1968): &lt;em&gt;Werke. Band 23.&lt;/em&gt; Berlin: Dietz
+Verlag.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Marx1975&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;——— (1975): &lt;em&gt;Werke. Band 13.&lt;/em&gt; 7th ed. Berlin: Dietz Verlag.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Spaet2010&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Spät, Patrick (2010): “Panpsychismus ein Lösungsvorschlag zum
+Leib-Seele-Problem.” Dissertation. Freiburg in Breisgau.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Spaet2016&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;——— (2016): &lt;em&gt;Der Mensch lebt nicht vom Hirn allein: warum wir kein
+Haufen Neuronen sind - und was wir dann sind&lt;/em&gt;. Berlin: epubli.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;“Am Anfang war das Wort, und das Wort war bei Gott, und das Wort
+war Gott.” (Johannes 1:1) &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;“Es ist nicht das Bewusstsein der Menschen, das ihr Sein, sondern
+umgekehrt ihr gesellschaftliches Sein, das ihr Bewusstsein
+bestimmt.” (Marx &amp;amp; Engels 
+&lt;a href=&#34;#ref-Marx1975&#34;&gt;1975&lt;/a&gt;: 9). “Meine
+dialektische Methode ist der Grundlage nach von der Hegelschen nicht
+nur verschieden, sondern ihr direktes Gegenteil. Für Hegel ist der
+Denkprozess, den er sogar unter dem Namen Idee in ein selbständiges
+Subjekt verwandelt, der Demiurg des Wirklichen, das nur seine äußere
+Erscheinung bildet. Bei mir ist umgekehrt das Ideelle nichts andres
+als das im Menschenkopf umgesetzte und übersetzte Materielle.” (Marx
+&amp;amp; Engels 
+&lt;a href=&#34;#ref-Marx1968&#34;&gt;1968&lt;/a&gt;: 27). &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
