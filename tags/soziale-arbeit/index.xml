@@ -5,7 +5,7 @@
     <link>/tags/soziale-arbeit/</link>
       <atom:link href="/tags/soziale-arbeit/index.xml" rel="self" type="application/rss+xml" />
     <description>Soziale Arbeit</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de-ch</language><lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de-ch</language><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Soziale Arbeit</title>
@@ -14,19 +14,18 @@
     
     <item>
       <title>Auf dem Weg zu einer solutionistischen Sozialen Arbeit?</title>
-      <link>/post/solutionistische-soziale-arbeit/</link>
-      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/solutionistische-soziale-arbeit/</guid>
-      <description>&lt;hr&gt;
-&lt;!--TODO: Fertig bis Plattform Redaktionsschluss 15. Sept. 2020. Max 14&#39;000 Zeichen. Besser um die 8000. Titel, Lead, Zwischentitel pro Abschnitt. --&gt;
-&lt;p&gt;&lt;em&gt;Ein Bachelor-Diplom in Sozialer Arbeit kann an der FHNW seit 2019 nun
+      <link>/post/auf-dem-weg-zu-einer-solutionistischen-sozialen-arbeit/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/post/auf-dem-weg-zu-einer-solutionistischen-sozialen-arbeit/</guid>
+      <description>&lt;p&gt;(&lt;em&gt;Dieser Text erschien im September 2020 in der 
+&lt;a href=&#34;https://www.kriso.ch/publikationen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kriso Plattform - Zeitschrift für kritische Soziale Arbeit&lt;/a&gt;&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ein Bachelor-Diplom in Sozialer Arbeit kann an der FHNW seit 2019 nun
 auch in ‘Freiform’ erworben werden. Geht es bei der neuen Studienform um
 einen progressiveren Zugang zu Bildung? Nein. Vielmehr helfen die
 Hochschulen dem Spätkapitalismus stabil zu bleiben, indem sie die neuen
 Geister des Kapitalismus institutionell adoptieren. In diesem Essay wird
 für politisches Ghostbusting plädiert, statt ‘agile’ Lernumgebungen zu
-kreieren und auf jeder Digitalisierungswelle mitzureiten.&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
+kreieren und blind auf jeder Digitalisierungswelle mitzureiten.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Curriculumsrevisionen gehören für die Schweizer Fachhochschulen für
 Soziale Arbeit im Konkurrenzkampf um Standortvorteile schon fast zum
 Routineprogramm. Seit Herbst 2019 gibt es an der Fachhochschule
@@ -59,22 +58,19 @@ kooperativ, selbstorganisiert und digital (FHNW
 Wohl kaum. Vielmehr lässt sich die Freiform als Teil des sich wandelnden
 kapitalistischen Geistes verstehen.&lt;/p&gt;
 &lt;h2 id=&#34;chillen-im-stahlharten-gehäuse-des-kapitalismus&#34;&gt;Chillen im stahlharten Gehäuse des Kapitalismus&lt;/h2&gt;
-&lt;p&gt;Mit Max Weber und seinem Werk zur protestantischen Ethik ist ein
-wichtiger früher Theoretiker des Kapitalismus zu nennen. Hatte Marx eher
-die materiellen Bedingungen der Produktion im Blick, so fragte Weber
-1904 nach den kulturellen Faktoren, welche die kapitalistische
-Produktionsweise legitimieren (Weber 
-&lt;a href=&#34;#ref-Weber2016&#34;&gt;2016&lt;/a&gt;). Nach Weber
-hat sich aus der protestantischen Ethik des Calvinismus der “Geist des
-Kapitalismus” entwickelt: Durch die Prädestinationslehre zum
-vorbestimmten Schicksal verdammt, blieb dem frommen Calvinisten
-subjektiv nichts anderes übrig, als seine Fahrt zur Hölle vielleicht
-doch noch durch harte Anstrengung und weltlichen Erfolg abzuwenden.
-Diese Logik hat sich nach Weber im Verlauf der Zeit von ihren religiösen
-Wurzeln entkoppelt. Sie bleibt aber gleichsam wirksam und dient damit
-dem Kapitalismus als geistige Legitimationsbasis. Das Streben nach
-Erfolg in der Arbeit wurde zum gesellschaftlich geltenden Sachzwang und
-damit zum “stahlharten Gehäuse” des Kapitalismus (Weber
+&lt;p&gt;Max Weber fragte 1904 nach den kulturellen Faktoren, welche die
+kapitalistische Produktionsweise legitimieren (Weber
+
+&lt;a href=&#34;#ref-Weber2016&#34;&gt;2016&lt;/a&gt;). Nach Weber hat sich aus der protestantischen
+Ethik des Calvinismus der “Geist des Kapitalismus” entwickelt: Durch die
+Prädestinationslehre zum vorbestimmten Schicksal verdammt, blieb dem
+frommen Calvinisten subjektiv nichts anderes übrig, als seine Fahrt zur
+Hölle vielleicht doch noch durch harte Anstrengung und weltlichen Erfolg
+abzuwenden. Diese Logik hat sich nach Weber im Verlauf der Zeit von
+ihren religiösen Wurzeln entkoppelt. Sie bleibt aber gleichsam wirksam
+und dient damit dem Kapitalismus als geistige Legitimationsbasis. Das
+Streben nach Erfolg in der Arbeit wurde zum gesellschaftlich geltenden
+Sachzwang und damit zum “stahlharten Gehäuse” des Kapitalismus (Weber
 
 &lt;a href=&#34;#ref-Weber2016&#34;&gt;2016&lt;/a&gt;: 203).&lt;/p&gt;
 &lt;p&gt;Fast hundert Jahre danach schlossen Luc Boltanski und Ève Chiapello mit
@@ -156,8 +152,11 @@ die Möglichkeit, mit gängigem neoliberalem Impetus, ihre Verantwortung
 für eine fundierte Bildung (oder für deren Scheitern) komplett an die
 Studierenden abzugeben, Präsenzzeiten zu kürzen, die Lehre zunehmend in
 die “digitale Agora” auszulagern und damit eine Legitimationsgrundlage
-für Rationalisierung und Kosteneinsparung zu schaffen. Was dabei auf der
-Strecke bleibt, ist die Bildung.&lt;/p&gt;
+für Rationalisierung und Kosteneinsparung zu schaffen.&lt;/p&gt;
+&lt;p&gt;Das Studium wird so zum neoliberalen Individualprojekt. Sich selbst
+durch die Inhalte managend, wird der Austausch mit Komiliton*innen auf
+ein Minimum reduziert. Dies hemmt eine mögliche Organisierung, die
+Freiform wirkt damit entpolitisierend.&lt;/p&gt;
 &lt;h2 id=&#34;die-ich-rief-die-geister-werd-ich-nun-nicht-los&#34;&gt;Die ich rief, die Geister, werd ich nun nicht los&lt;/h2&gt;
 &lt;p&gt;Die Vermutung liegt nahe, dass es bei der Freiform (auch) um etwas
 anderes geht, als um verbesserte Bildungschancen. In der neoliberalen
@@ -173,9 +172,9 @@ Hochschulen abgrenzen.&lt;/p&gt;
 legitimiert und damit den Kapitalismus am Leben erhält, so wird die
 Inkorporation dieses Geistes zu einem Marktvorteil. Ein Studiengang,
 welcher sich für Jargon und Praxis beim neuen kapitalistischen Geist
-bedient, erweist sich marktlogisch als vorteilhaft: Die Fachhochschule
-kann sich durch die Anverwandlung der projektförmigen Polis in ein
-“innovatives”, “kreatives” und “agiles” Licht rücken.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+bedient, erweist sich marktlogisch als gewinnbringend: Die
+Fachhochschule kann sich durch die Anverwandlung der projektförmigen
+Polis in ein “innovatives”, “kreatives” und “agiles” Licht rücken.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;Auch für die Studierenden bietet die Freiform marktlogische Vorteile.
 Sie werden nach dem Studium in die zunehmend “freiere” Wildbahn des
 Arbeitsmarktes entlassen, wo sich Kommiliton*innen in Konkurrent*innen
