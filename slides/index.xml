@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides | nomaad.github.io</title>
+    <link>/slides/</link>
+      <atom:link href="/slides/index.xml" rel="self" type="application/rss+xml" />
+    <description>Slides</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de-ch</language><lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Linkage Politics and Complex Governance in Transatlantic Surveillance </title>
+      <link>/slides/20210610-dpe/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/slides/20210610-dpe/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;class: inverse, center, middle&lt;/p&gt;
+&lt;div id=&#34;theoretical-framework&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Theoretical framework&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;goal-method&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Goal &amp;amp; Method&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Farrell and Newman aim to create a theory how linkage politics change or alter the influence of state actors and private actors on an international level&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;They use international cooperation over intelligence, surveillance and privacy matters in transatlantic relationships as empirical example for their theory&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;argument&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Argument&lt;/h1&gt;
+&lt;p&gt;Their argument is that actors use issue linkage to exploit a plurality of opportunity structures. Meaning that Farrell and Newman investigate how private and state actors use domestic rule-setting structures to influence international negotiations.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;argument-1&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Argument&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Private actors are bargainers in international negotiations&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Greater economic exchange and increased international communication has undermined states’ monopoly control over many channels of diplomacy&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Newman and Farrell put a focus on how differences in domestic structures allow different actors to use issue linkage to influence international bargaining processes.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;issue-linkage&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Issue Linkage&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Issue Linkage&lt;/em&gt; = an actor A who has a strong influence on a certain issue but is weak in another will try to keep these two fields separated and focus on the field the actor is strong in. An actor B who may have strong competences in the second field but not in the first will try to connect both issues to strengthen his position, when initially only issue A was negotiated.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;New knowledge may allow an actor to link two fields that before seemed unrelated.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;hypotheses&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Hypotheses&lt;/h1&gt;
+&lt;p&gt;Farrell and Newman formulate two hypotheses regarding actors behavior towards issue linkage:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;H1:&lt;/em&gt; When issue linkage potentially conjoin one policy area to another in which a given actor has less access to political opportunity structures, that actor will seek to keep issue areas separate to avoid a loss of influences.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;H2:&lt;/em&gt; When the salient policy is located in an issue area in which a given actor has less access to opportunity structures and it is possible to join the salient policy together with an issue area in which that actor has more access, the actor will seek to join issue areas together and to exploit the relevant opportunity structures to gain influence over the negotiation outcome.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;class: inverse, center, middle&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;empirical-evidence&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Empirical evidence&lt;/h1&gt;
+&lt;table style=&#34;width:6%;&#34;&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;5%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;# Transatlantic data transfer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Three phases:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;1. Commercialization of the Internet (1990s)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;2. After 9/11&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;3. Snowden Affair Knowledge Shock (2013 onward)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;first-phase-safe-harbor&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;First phase: Safe Harbor&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Information sharing as issue of trade&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;First US-EU disputes -&amp;gt; &lt;em&gt;Safe Harbor&lt;/em&gt; agreement 1998&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Dissent from nonstate actors but lack of decision making structures&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;EU &amp;amp; US defend &lt;em&gt;Safe Harbor&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;second-phase-after-911&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Second phase: After 9/11&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;US ask EU to engage in information exchange to fight terrorism&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Data transfer now framed in terms of national security&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Officials seek to keep issue separate from &lt;em&gt;Safe Harbor&lt;/em&gt; debate&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;third-phase-snowden-affair-as-knowledge-shock&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Third phase: Snowden Affair as “knowledge shock”&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;EC admits that Safe Harbor has flaws&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Issue linkage: data transfer as issue of commerce AND security&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;New leverage potential through linkage (due to better decision making structure for security issue)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Schrems case 2014: activist lawyer against Facebook&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;ECJ 2015: Safe Harbor does not protect privacy of EU citizens sufficiently&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;present-situation&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Present situation?&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;2016 &lt;em&gt;Privacy Shield&lt;/em&gt; as successor of &lt;em&gt;Safe Harbor&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Schrems II 2018: &lt;em&gt;Privacy Shield&lt;/em&gt; still has flaws&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;ECJ 2020: affirms Schrems’ claim -&amp;gt; &lt;em&gt;Privacy Shield&lt;/em&gt; invalidated&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Several actors pushing for domestic reform within US&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Biden visits Brussels: New debates on third agreement starting June 15th?&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;class: center, middle&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;thanks&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Thanks!&lt;/h1&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
