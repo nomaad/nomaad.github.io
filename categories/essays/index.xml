@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Essays | nomaad.github.io</title>
-    <link>/categories/essays/</link>
-      <atom:link href="/categories/essays/index.xml" rel="self" type="application/rss+xml" />
+    <title>Essays | Matthias Zaugg</title>
+    <link>https://nomaad.github.io/categories/essays/</link>
+      <atom:link href="https://nomaad.github.io/categories/essays/index.xml" rel="self" type="application/rss+xml" />
     <description>Essays</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de-ch</language><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Essays</title>
-      <link>/categories/essays/</link>
+      <link>https://nomaad.github.io/categories/essays/</link>
     </image>
     
     <item>
       <title>Auf dem Weg zu einer solutionistischen Sozialen Arbeit?</title>
-      <link>/post/auf-dem-weg-zu-einer-solutionistischen-sozialen-arbeit/</link>
+      <link>https://nomaad.github.io/post/auf-dem-weg-zu-einer-solutionistischen-sozialen-arbeit/</link>
       <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/post/auf-dem-weg-zu-einer-solutionistischen-sozialen-arbeit/</guid>
+      <guid>https://nomaad.github.io/post/auf-dem-weg-zu-einer-solutionistischen-sozialen-arbeit/</guid>
       <description>&lt;p&gt;(&lt;em&gt;Dieser Text erschien im September 2020 in der 
 &lt;a href=&#34;https://www.kriso.ch/publikationen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kriso Plattform - Zeitschrift für kritische Soziale Arbeit&lt;/a&gt;&lt;/em&gt;)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ein Bachelor-Diplom in Sozialer Arbeit kann an der FHNW seit 2019 nun
@@ -280,23 +280,27 @@ Kapitalismus&lt;/em&gt;. Konstanz: UVK.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref-Dyttrich2018&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;Dyttrich, Bettina (2018): «Berner Fachhochschule: Trauermarsch fürs
-kritische Denken». &lt;em&gt;WOZ - Die Wochenzeitung&lt;/em&gt;. &lt;a href=&#34;https://www.woz.ch/-88a0&#34;&gt;https://www.woz.ch/-88a0&lt;/a&gt;
+kritische Denken». &lt;em&gt;WOZ - Die Wochenzeitung&lt;/em&gt;. 
+&lt;a href=&#34;https://www.woz.ch/-88a0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.woz.ch/-88a0&lt;/a&gt;
 (20. August 2020).&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref-FHNW2020a&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;FHNW (2020a): «Auf neuen Wegen in die Soziale Arbeit». &lt;em&gt;eMagazin&lt;/em&gt;.
-&lt;a href=&#34;https://emagazin.fhnw.ch/auf-neuen-wegen-in-die-soziale-arbeit/&#34;&gt;https://emagazin.fhnw.ch/auf-neuen-wegen-in-die-soziale-arbeit/&lt;/a&gt; (16.
+
+&lt;a href=&#34;https://emagazin.fhnw.ch/auf-neuen-wegen-in-die-soziale-arbeit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://emagazin.fhnw.ch/auf-neuen-wegen-in-die-soziale-arbeit/&lt;/a&gt; (16.
 April 2020).&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref-FHNW2020&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;——— (2020b): «Freiform.org Soziale Arbeit gemeinsam gestalten.»
-&lt;em&gt;Freiform.org&lt;/em&gt;. &lt;a href=&#34;https://www.freiform.org/&#34;&gt;https://www.freiform.org/&lt;/a&gt; (16. April 2020).&lt;/p&gt;
+&lt;em&gt;Freiform.org&lt;/em&gt;. 
+&lt;a href=&#34;https://www.freiform.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.freiform.org/&lt;/a&gt; (16. April 2020).&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref-Heri2017&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;Heri, Matthias (2017): «Studierende trainieren Beratungskompetenzen in
 der virtuellen Welt». &lt;em&gt;BFH impuls. Magazin des Departements Soziale
 Arbeit (Berner Fachhochschule)&lt;/em&gt; (3): 4–5.
-&lt;a href=&#34;https://www.bfh.ch/soziale-arbeit/de/aktuell/magazine/impuls/&#34;&gt;https://www.bfh.ch/soziale-arbeit/de/aktuell/magazine/impuls/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;a href=&#34;https://www.bfh.ch/soziale-arbeit/de/aktuell/magazine/impuls/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.bfh.ch/soziale-arbeit/de/aktuell/magazine/impuls/&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref-Morozov2018&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;Morozov, Evgeny &amp;amp; Bria, Francesca (2018): &lt;em&gt;Rethinking the Smart City.
@@ -305,12 +309,14 @@ Democratizing Urban Technology.&lt;/em&gt; New York: Rosa-Luxemburg Stiftung.&lt
 &lt;div id=&#34;ref-Nachtwey2017&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;Nachtwey, Oliver &amp;amp; Seidl, Timo (2017): &lt;em&gt;Die Ethik der Solution und der
 Geist des digitalen Kapitalismus&lt;/em&gt;. IfS - Institut für Sozialforschung
-Frankfurt. Working Paper. &lt;a href=&#34;https://edoc.unibas.ch/63450/&#34;&gt;https://edoc.unibas.ch/63450/&lt;/a&gt; (29. Oktober
+Frankfurt. Working Paper. 
+&lt;a href=&#34;https://edoc.unibas.ch/63450/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://edoc.unibas.ch/63450/&lt;/a&gt; (29. Oktober
 2019).&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref-Nachtwey2020&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;——— (2020): &lt;em&gt;The Solutionist Ethic and the Spirit of Digital
-Capitalism&lt;/em&gt;. SocArXiv. preprint. &lt;a href=&#34;https://osf.io/sgjzq&#34;&gt;https://osf.io/sgjzq&lt;/a&gt; (8. April 2020).&lt;/p&gt;
+Capitalism&lt;/em&gt;. SocArXiv. preprint. 
+&lt;a href=&#34;https://osf.io/sgjzq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/sgjzq&lt;/a&gt; (8. April 2020).&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref-Schilliger2009&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;Schilliger, Sarah (2009): «Homo academicus precarius?: Lehren und
@@ -325,20 +331,23 @@ korrigierter Nachdruck. Wiesbaden: Springer.&lt;/p&gt;
 &lt;div id=&#34;ref-Seitz2020&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;Seitz, Tim (2020): «Design Thinking: Der Flirt mit Allmachtsfantasien».
 &lt;em&gt;Jacobin Magazin&lt;/em&gt;.
-&lt;a href=&#34;https://jacobin.de/artikel/design-thinking-politik-innovation-demokratie-designthinking-allmachtsfantasie/&#34;&gt;https://jacobin.de/artikel/design-thinking-politik-innovation-demokratie-designthinking-allmachtsfantasie/&lt;/a&gt;
+
+&lt;a href=&#34;https://jacobin.de/artikel/design-thinking-politik-innovation-demokratie-designthinking-allmachtsfantasie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://jacobin.de/artikel/design-thinking-politik-innovation-demokratie-designthinking-allmachtsfantasie/&lt;/a&gt;
 (11. August 2020).&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref-Studer2020&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;Studer, Tobias (2020): «Bildungsverlust infolge akuter Digitalisierung?»
 &lt;em&gt;VPOD Bildungspolitik. Zeitschrift für Bildung, Erziehung,
-Wissenschaft.&lt;/em&gt; (217). &lt;a href=&#34;http://vpod-bildungspolitik.ch/?p=3932&#34;&gt;http://vpod-bildungspolitik.ch/?p=3932&lt;/a&gt; (20.
+Wissenschaft.&lt;/em&gt; (217). 
+&lt;a href=&#34;http://vpod-bildungspolitik.ch/?p=3932&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://vpod-bildungspolitik.ch/?p=3932&lt;/a&gt; (20.
 August 2020).&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref-vonBergen2020&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;von Bergen, Matthias &amp;amp; Pfiffner, Roger (2020): «Gemeinwohlorientierung
 und Wettbewerb in der Sozialwirtschaft». &lt;em&gt;BFH impuls. Magazin des
 Departements Soziale Arbeit (Berner Fachhochschule)&lt;/em&gt; (1).
-&lt;a href=&#34;https://www.bfh.ch/soziale-arbeit/de/aktuell/magazine/impuls/&#34;&gt;https://www.bfh.ch/soziale-arbeit/de/aktuell/magazine/impuls/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;a href=&#34;https://www.bfh.ch/soziale-arbeit/de/aktuell/magazine/impuls/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.bfh.ch/soziale-arbeit/de/aktuell/magazine/impuls/&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref-Weber2016&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;Weber, Max (2016): &lt;em&gt;Die protestantische Ethik und der Geist des
@@ -350,13 +359,14 @@ Bube(hrsg.): Tübingen: Mohr.&lt;/p&gt;
 &lt;p&gt;Zuboff, Shoshana (2015): «Big other: Surveillance Capitalism and the
 Prospects of an Information Civilization». &lt;em&gt;Journal of Information
 Technology&lt;/em&gt; 30(1): 75–89.
-&lt;a href=&#34;http://journals.sagepub.com/doi/10.1057/jit.2015.5&#34;&gt;http://journals.sagepub.com/doi/10.1057/jit.2015.5&lt;/a&gt; (4. Mai 2020).&lt;/p&gt;
+
+&lt;a href=&#34;http://journals.sagepub.com/doi/10.1057/jit.2015.5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://journals.sagepub.com/doi/10.1057/jit.2015.5&lt;/a&gt; (4. Mai 2020).&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;“Design Thinking ist eine Methode, die Kleingruppen zur
 Zusammenarbeit anleitet, um Lösungsideen für Probleme zu
 entwickeln.” (Seitz 
@@ -364,30 +374,30 @@ entwickeln.” (Seitz
 Versprechen leicht gemachter Weltverbesserung erscheinen Probleme
 dabei nie als strukturell, sondern stets als Folge mangelnder
 Kreativität und Innovationskraft (Seitz 
-&lt;a href=&#34;#ref-Seitz2020&#34;&gt;2020&lt;/a&gt;). &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;#ref-Seitz2020&#34;&gt;2020&lt;/a&gt;).&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;In ähnlicher Weise wurde an der Berner Fachhochschule 2013 ein
 obligatorisches “Coaching-Modul” (heute “SESOK”) eingeführt. Es
 beinhaltet u.a. die Pflicht, seine Selbst- und Sozialkompetenzen
 weiterzuentwickeln, Ziele zu setzen, welche in gewohnter NPM-Manier
 messbar und SMART sein soll. Die vom neuen Geist erzeugte
 Selbstoptimierungsnorm wurde dadurch institutionalisiert, was sich
-wiederum vermarkten lässt. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+wiederum vermarkten lässt.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Die meisten sind Männer. &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;Die meisten sind Männer.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Der Begriff der Klasse und die Sozialstruktur der Schweiz</title>
-      <link>/post/klassenbegriff-und-sozialstruktur-der-schweiz/</link>
+      <link>https://nomaad.github.io/post/klassenbegriff-und-sozialstruktur-der-schweiz/</link>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/post/klassenbegriff-und-sozialstruktur-der-schweiz/</guid>
+      <guid>https://nomaad.github.io/post/klassenbegriff-und-sozialstruktur-der-schweiz/</guid>
       <description>&lt;p&gt;Der soziologische Begriff der &lt;em&gt;Klasse&lt;/em&gt; war und ist nach wie vor
 umstritten: In den späten 1960er Jahren war sich die Mehrheit der
 Soziolog*innen in Deutschland einig, dass die deutsche Gesellschaft
@@ -747,10 +757,10 @@ Theorie Der Praxis.” in: &lt;em&gt;Klassen - Fraktionen - Milieus. Beiträge Z
 Klassenanalyse&lt;/em&gt;, Manuskripte, Berlin: Rosa-Luxemburg Stiftung.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;In diesem Sinne bilden Geist und Natur eine notwendige Einheit
 (vgl. Bateson 
 &lt;a href=&#34;#ref-Bateson2000&#34;&gt;2000&lt;/a&gt;). Begriffe sind jedoch immer
@@ -762,18 +772,18 @@ nur begrifflich sich annähernd stattfinden. Dabei wird jedoch nicht
 aufgegeben, das bestimmte “Karten” (Begriffe/Theorien) zutreffender
 für die Beschreibung der “Landschaft” sind als andere (vgl. Bateson
 
-&lt;a href=&#34;#ref-Bateson1983&#34;&gt;1983&lt;/a&gt;: 590). &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;#ref-Bateson1983&#34;&gt;1983&lt;/a&gt;: 590).&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Queer-Theory und das psychophysische Problem</title>
-      <link>/post/queer-theory-und-das-psychophysische-problem/</link>
+      <link>https://nomaad.github.io/post/queer-theory-und-das-psychophysische-problem/</link>
       <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/post/queer-theory-und-das-psychophysische-problem/</guid>
+      <guid>https://nomaad.github.io/post/queer-theory-und-das-psychophysische-problem/</guid>
       <description>&lt;p&gt;Die Unterscheidung von biologischem Geschlecht (sex) und sozialem
 Geschlecht (gender) wurde von feministischen Theoretiker*innen
 eingeführt. Dabei wurde &lt;em&gt;sex&lt;/em&gt; der Sphäre der unveränderlichen Natur und
@@ -1014,14 +1024,14 @@ Leib-Seele-Problem.” Dissertation. Freiburg in Breisgau.&lt;/p&gt;
 Haufen Neuronen sind - und was wir dann sind&lt;/em&gt;. Berlin: epubli.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;“Am Anfang war das Wort, und das Wort war bei Gott, und das Wort
-war Gott.” (Johannes 1:1) &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+war Gott.” (Johannes 1:1)&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;“Es ist nicht das Bewusstsein der Menschen, das ihr Sein, sondern
 umgekehrt ihr gesellschaftliches Sein, das ihr Bewusstsein
 bestimmt.” (Marx &amp;amp; Engels 
@@ -1033,18 +1043,18 @@ Subjekt verwandelt, der Demiurg des Wirklichen, das nur seine äußere
 Erscheinung bildet. Bei mir ist umgekehrt das Ideelle nichts andres
 als das im Menschenkopf umgesetzte und übersetzte Materielle.” (Marx
 &amp;amp; Engels 
-&lt;a href=&#34;#ref-Marx1968&#34;&gt;1968&lt;/a&gt;: 27). &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;#ref-Marx1968&#34;&gt;1968&lt;/a&gt;: 27).&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Social-Egg-Freezing und Social Reproduction Theory</title>
-      <link>/post/social-egg-freezing-und-social-reproduction-theory/</link>
+      <link>https://nomaad.github.io/post/social-egg-freezing-und-social-reproduction-theory/</link>
       <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/post/social-egg-freezing-und-social-reproduction-theory/</guid>
+      <guid>https://nomaad.github.io/post/social-egg-freezing-und-social-reproduction-theory/</guid>
       <description>&lt;p&gt;Unter Egg-Freezing oder “Eizellenvorsorge” (Hotz 
 &lt;a href=&#34;#ref-Hotz2017&#34;&gt;2017&lt;/a&gt;:1) wird das vorsorgliche Entnehmen, Einfrieren und Aufbewahren von
 Eizellen einer Frau verstanden, um mit diesen zu einem späteren
@@ -1501,34 +1511,34 @@ of future fertility.” &lt;em&gt;Culture, health &amp;amp; sexuality.&lt;/em&gt
 Blessing for Women Today?” &lt;em&gt;Swiss Medical Weekly&lt;/em&gt; 143: w13746.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;Für einige feministische Theoretikerinnen wie Shulamit Firestone
 oder Donna Haraway galt die Befreiung der Frauen von der Last der
 Schwangerschaft durch Reproduktionstechnologien als Utopie, während
 von anderen, wie beispielsweise Bielefelder Ökofeministinnen in den
 1980ern, der Einsatz von Reproduktionstechnologien als ultimative
 patriarchale Aneignung der Schwangerschaft als letztes Eigentum der
-Frauen dystopisch interpretiert wurden. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+Frauen dystopisch interpretiert wurden.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;Vogel weist darauf hin, dass die Arbeitskräfte auch durch
 Immigration oder Sklaverei ersetzt werden können (Vogel
 
-&lt;a href=&#34;#ref-Vogel2013&#34;&gt;2013&lt;/a&gt;: 145). &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;#ref-Vogel2013&#34;&gt;2013&lt;/a&gt;: 145).&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Zum Begriff der Autorität bei Hannah Arendt</title>
-      <link>/post/zum-begriff-der-autoritaet-bei-hannah-arendt/</link>
+      <link>https://nomaad.github.io/post/zum-begriff-der-autoritaet-bei-hannah-arendt/</link>
       <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/post/zum-begriff-der-autoritaet-bei-hannah-arendt/</guid>
+      <guid>https://nomaad.github.io/post/zum-begriff-der-autoritaet-bei-hannah-arendt/</guid>
       <description>&lt;p&gt;In der 2012 publizierten Essay-Sammlung “Zwischen Vergangenheit und
 Zukunft - Übungen im politischen Denken” geht Hannah Arendt im sechsten
 Kapitel der Frage nach, was Autorität sei (Arendt
@@ -1978,9 +1988,9 @@ korrigierter Nachdruck. Wiesbaden: Springer.&lt;/p&gt;
     
     <item>
       <title>Radikale und deliberative Demokratietheorie</title>
-      <link>/post/radikale-und-deliberative-demokratietheorie/</link>
+      <link>https://nomaad.github.io/post/radikale-und-deliberative-demokratietheorie/</link>
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/post/radikale-und-deliberative-demokratietheorie/</guid>
+      <guid>https://nomaad.github.io/post/radikale-und-deliberative-demokratietheorie/</guid>
       <description>&lt;p&gt;Was ist radikale Demokratietheorie? Charakteristisch für dieselbe seien
 drei Spielarten, welche, je ausgeprägter sie sind, einer
 Demokratietheorie umso stärker das Attribut der Radikalität verleihen

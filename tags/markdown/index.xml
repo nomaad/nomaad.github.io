@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Markdown | nomaad.github.io</title>
-    <link>/tags/markdown/</link>
-      <atom:link href="/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <title>Markdown | Matthias Zaugg</title>
+    <link>https://nomaad.github.io/tags/markdown/</link>
+      <atom:link href="https://nomaad.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de-ch</language><lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Markdown</title>
-      <link>/tags/markdown/</link>
+      <link>https://nomaad.github.io/tags/markdown/</link>
     </image>
     
     <item>
       <title>My setup for academic writing</title>
-      <link>/post/academic-writing-setup/</link>
+      <link>https://nomaad.github.io/post/academic-writing-setup/</link>
       <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/post/academic-writing-setup/</guid>
+      <guid>https://nomaad.github.io/post/academic-writing-setup/</guid>
       <description>&lt;p&gt;In the past few months I was trying to figure out, how to organize myself in academia for my studies. Especially I wanted to find a neat workflow to quickly take notes during lectures, organize literature and write papers, while not having to deal too much with tedious formatting of citations in specific citation styles or having to struggle with the layout of word documents. Meanwhile I have found a setup, which works pretty well for me. In this post I will have an indepth look at it, while trying to explain everything in a way that is also understandable by non-techies.&lt;/p&gt;
 &lt;p&gt;Before going into details, here is an overview of tools I use:&lt;/p&gt;
 &lt;ul&gt;
@@ -140,7 +140,7 @@ This is a list:
 &lt;p&gt;&lt;img src=&#34;zothero_search.png&#34; alt=&#34;ZotHero Search&#34;&gt;&lt;/p&gt;
 &lt;p&gt;When you found the reference, you can copy the citekey to clipboard with &lt;code&gt;Cmd ⌘ + Enter&lt;/code&gt; and paste it into your editor:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;zothero_result.png&#34; alt=&#34;ZotHero Result&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Yay. But wait. Right now you probably still think: &lt;em&gt;&amp;ldquo;Why all this struggle? I could have done this much easier in Word.&amp;quot;&lt;/em&gt; Let&amp;rsquo;s dive into the fun part.&lt;/p&gt;
+&lt;p&gt;Yay. But wait. Right now you probably still think: &lt;em&gt;&amp;ldquo;Why all this struggle? I could have done this much easier in Word.&amp;rdquo;&lt;/em&gt; Let&amp;rsquo;s dive into the fun part.&lt;/p&gt;
 &lt;h1 id=&#34;converting-markdown-to-word-with-pandoc&#34;&gt;Converting Markdown to Word with Pandoc&lt;/h1&gt;
 &lt;p&gt;Let&amp;rsquo;s recap: We have a paper written in markdown with unique citekeys pointing to our references managed in Zotero. But it&amp;rsquo;s still in makdown and can&amp;rsquo;t be submitted like this. So let&amp;rsquo;s convert it to Word and/or PDF with 
 &lt;a href=&#34;https://pandoc.org/MANUAL.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pandoc&lt;/a&gt;.&lt;/p&gt;

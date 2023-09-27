@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Automatisierte Inhaltsanalyse | nomaad.github.io</title>
-    <link>/tags/automatisierte-inhaltsanalyse/</link>
-      <atom:link href="/tags/automatisierte-inhaltsanalyse/index.xml" rel="self" type="application/rss+xml" />
+    <title>Automatisierte Inhaltsanalyse | Matthias Zaugg</title>
+    <link>https://nomaad.github.io/tags/automatisierte-inhaltsanalyse/</link>
+      <atom:link href="https://nomaad.github.io/tags/automatisierte-inhaltsanalyse/index.xml" rel="self" type="application/rss+xml" />
     <description>Automatisierte Inhaltsanalyse</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de-ch</language><lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Automatisierte Inhaltsanalyse</title>
-      <link>/tags/automatisierte-inhaltsanalyse/</link>
+      <link>https://nomaad.github.io/tags/automatisierte-inhaltsanalyse/</link>
     </image>
     
     <item>
       <title>Automatisierte Inhaltsanalyse &amp; Kategorisierung von QAnon-Tweets</title>
-      <link>/post/2020-08-17-categorize-qanon-references-with-machine-learning/</link>
+      <link>https://nomaad.github.io/post/2020-08-17-qanon/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020-08-17-categorize-qanon-references-with-machine-learning/</guid>
+      <guid>https://nomaad.github.io/post/2020-08-17-qanon/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/plotly-binding/plotly.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/typedarray/typedarray.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/rmarkdown-libs/crosstalk/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;/rmarkdown-libs/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/rmarkdown-libs/plotly-htmlwidgets-css/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;/rmarkdown-libs/plotly-main/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/plotly-binding/plotly.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/typedarray/typedarray.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://nomaad.github.io/rmarkdown-libs/crosstalk/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://nomaad.github.io/rmarkdown-libs/plotly-htmlwidgets-css/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/plotly-main/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;Die durch die COVID-19-Pandemie verursachte globale Unsicherheit, führte zu einer zunehmenden Verbreitung von Verschwörungstheorien, darunter die rechtsextreme und trumpistische Verschwörungstheorie &lt;a href=&#34;https://de.wikipedia.org/wiki/QAnon&#34;&gt;QAnon&lt;/a&gt;&lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;.&lt;/p&gt;

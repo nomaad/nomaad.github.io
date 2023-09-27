@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | nomaad.github.io</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de-ch</language><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <title>All Posts | Matthias Zaugg</title>
+    <link>https://nomaad.github.io/post/</link>
+      <atom:link href="https://nomaad.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>All Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Posts</title>
-      <link>/post/</link>
+      <title>All Posts</title>
+      <link>https://nomaad.github.io/post/</link>
     </image>
     
     <item>
       <title>Auf dem Weg zu einer solutionistischen Sozialen Arbeit?</title>
-      <link>/post/auf-dem-weg-zu-einer-solutionistischen-sozialen-arbeit/</link>
+      <link>https://nomaad.github.io/post/auf-dem-weg-zu-einer-solutionistischen-sozialen-arbeit/</link>
       <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/post/auf-dem-weg-zu-einer-solutionistischen-sozialen-arbeit/</guid>
+      <guid>https://nomaad.github.io/post/auf-dem-weg-zu-einer-solutionistischen-sozialen-arbeit/</guid>
       <description>&lt;p&gt;(&lt;em&gt;Dieser Text erschien im September 2020 in der 
 &lt;a href=&#34;https://www.kriso.ch/publikationen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kriso Plattform - Zeitschrift für kritische Soziale Arbeit&lt;/a&gt;&lt;/em&gt;)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ein Bachelor-Diplom in Sozialer Arbeit kann an der FHNW seit 2019 nun
@@ -280,23 +280,27 @@ Kapitalismus&lt;/em&gt;. Konstanz: UVK.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref-Dyttrich2018&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;Dyttrich, Bettina (2018): «Berner Fachhochschule: Trauermarsch fürs
-kritische Denken». &lt;em&gt;WOZ - Die Wochenzeitung&lt;/em&gt;. &lt;a href=&#34;https://www.woz.ch/-88a0&#34;&gt;https://www.woz.ch/-88a0&lt;/a&gt;
+kritische Denken». &lt;em&gt;WOZ - Die Wochenzeitung&lt;/em&gt;. 
+&lt;a href=&#34;https://www.woz.ch/-88a0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.woz.ch/-88a0&lt;/a&gt;
 (20. August 2020).&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref-FHNW2020a&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;FHNW (2020a): «Auf neuen Wegen in die Soziale Arbeit». &lt;em&gt;eMagazin&lt;/em&gt;.
-&lt;a href=&#34;https://emagazin.fhnw.ch/auf-neuen-wegen-in-die-soziale-arbeit/&#34;&gt;https://emagazin.fhnw.ch/auf-neuen-wegen-in-die-soziale-arbeit/&lt;/a&gt; (16.
+
+&lt;a href=&#34;https://emagazin.fhnw.ch/auf-neuen-wegen-in-die-soziale-arbeit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://emagazin.fhnw.ch/auf-neuen-wegen-in-die-soziale-arbeit/&lt;/a&gt; (16.
 April 2020).&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref-FHNW2020&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;——— (2020b): «Freiform.org Soziale Arbeit gemeinsam gestalten.»
-&lt;em&gt;Freiform.org&lt;/em&gt;. &lt;a href=&#34;https://www.freiform.org/&#34;&gt;https://www.freiform.org/&lt;/a&gt; (16. April 2020).&lt;/p&gt;
+&lt;em&gt;Freiform.org&lt;/em&gt;. 
+&lt;a href=&#34;https://www.freiform.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.freiform.org/&lt;/a&gt; (16. April 2020).&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref-Heri2017&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;Heri, Matthias (2017): «Studierende trainieren Beratungskompetenzen in
 der virtuellen Welt». &lt;em&gt;BFH impuls. Magazin des Departements Soziale
 Arbeit (Berner Fachhochschule)&lt;/em&gt; (3): 4–5.
-&lt;a href=&#34;https://www.bfh.ch/soziale-arbeit/de/aktuell/magazine/impuls/&#34;&gt;https://www.bfh.ch/soziale-arbeit/de/aktuell/magazine/impuls/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;a href=&#34;https://www.bfh.ch/soziale-arbeit/de/aktuell/magazine/impuls/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.bfh.ch/soziale-arbeit/de/aktuell/magazine/impuls/&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref-Morozov2018&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;Morozov, Evgeny &amp;amp; Bria, Francesca (2018): &lt;em&gt;Rethinking the Smart City.
@@ -305,12 +309,14 @@ Democratizing Urban Technology.&lt;/em&gt; New York: Rosa-Luxemburg Stiftung.&lt
 &lt;div id=&#34;ref-Nachtwey2017&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;Nachtwey, Oliver &amp;amp; Seidl, Timo (2017): &lt;em&gt;Die Ethik der Solution und der
 Geist des digitalen Kapitalismus&lt;/em&gt;. IfS - Institut für Sozialforschung
-Frankfurt. Working Paper. &lt;a href=&#34;https://edoc.unibas.ch/63450/&#34;&gt;https://edoc.unibas.ch/63450/&lt;/a&gt; (29. Oktober
+Frankfurt. Working Paper. 
+&lt;a href=&#34;https://edoc.unibas.ch/63450/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://edoc.unibas.ch/63450/&lt;/a&gt; (29. Oktober
 2019).&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref-Nachtwey2020&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;——— (2020): &lt;em&gt;The Solutionist Ethic and the Spirit of Digital
-Capitalism&lt;/em&gt;. SocArXiv. preprint. &lt;a href=&#34;https://osf.io/sgjzq&#34;&gt;https://osf.io/sgjzq&lt;/a&gt; (8. April 2020).&lt;/p&gt;
+Capitalism&lt;/em&gt;. SocArXiv. preprint. 
+&lt;a href=&#34;https://osf.io/sgjzq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/sgjzq&lt;/a&gt; (8. April 2020).&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref-Schilliger2009&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;Schilliger, Sarah (2009): «Homo academicus precarius?: Lehren und
@@ -325,20 +331,23 @@ korrigierter Nachdruck. Wiesbaden: Springer.&lt;/p&gt;
 &lt;div id=&#34;ref-Seitz2020&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;Seitz, Tim (2020): «Design Thinking: Der Flirt mit Allmachtsfantasien».
 &lt;em&gt;Jacobin Magazin&lt;/em&gt;.
-&lt;a href=&#34;https://jacobin.de/artikel/design-thinking-politik-innovation-demokratie-designthinking-allmachtsfantasie/&#34;&gt;https://jacobin.de/artikel/design-thinking-politik-innovation-demokratie-designthinking-allmachtsfantasie/&lt;/a&gt;
+
+&lt;a href=&#34;https://jacobin.de/artikel/design-thinking-politik-innovation-demokratie-designthinking-allmachtsfantasie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://jacobin.de/artikel/design-thinking-politik-innovation-demokratie-designthinking-allmachtsfantasie/&lt;/a&gt;
 (11. August 2020).&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref-Studer2020&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;Studer, Tobias (2020): «Bildungsverlust infolge akuter Digitalisierung?»
 &lt;em&gt;VPOD Bildungspolitik. Zeitschrift für Bildung, Erziehung,
-Wissenschaft.&lt;/em&gt; (217). &lt;a href=&#34;http://vpod-bildungspolitik.ch/?p=3932&#34;&gt;http://vpod-bildungspolitik.ch/?p=3932&lt;/a&gt; (20.
+Wissenschaft.&lt;/em&gt; (217). 
+&lt;a href=&#34;http://vpod-bildungspolitik.ch/?p=3932&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://vpod-bildungspolitik.ch/?p=3932&lt;/a&gt; (20.
 August 2020).&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref-vonBergen2020&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;von Bergen, Matthias &amp;amp; Pfiffner, Roger (2020): «Gemeinwohlorientierung
 und Wettbewerb in der Sozialwirtschaft». &lt;em&gt;BFH impuls. Magazin des
 Departements Soziale Arbeit (Berner Fachhochschule)&lt;/em&gt; (1).
-&lt;a href=&#34;https://www.bfh.ch/soziale-arbeit/de/aktuell/magazine/impuls/&#34;&gt;https://www.bfh.ch/soziale-arbeit/de/aktuell/magazine/impuls/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;a href=&#34;https://www.bfh.ch/soziale-arbeit/de/aktuell/magazine/impuls/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.bfh.ch/soziale-arbeit/de/aktuell/magazine/impuls/&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ref-Weber2016&#34; markdown=&#34;1&#34;&gt;
 &lt;p&gt;Weber, Max (2016): &lt;em&gt;Die protestantische Ethik und der Geist des
@@ -350,13 +359,14 @@ Bube(hrsg.): Tübingen: Mohr.&lt;/p&gt;
 &lt;p&gt;Zuboff, Shoshana (2015): «Big other: Surveillance Capitalism and the
 Prospects of an Information Civilization». &lt;em&gt;Journal of Information
 Technology&lt;/em&gt; 30(1): 75–89.
-&lt;a href=&#34;http://journals.sagepub.com/doi/10.1057/jit.2015.5&#34;&gt;http://journals.sagepub.com/doi/10.1057/jit.2015.5&lt;/a&gt; (4. Mai 2020).&lt;/p&gt;
+
+&lt;a href=&#34;http://journals.sagepub.com/doi/10.1057/jit.2015.5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://journals.sagepub.com/doi/10.1057/jit.2015.5&lt;/a&gt; (4. Mai 2020).&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;“Design Thinking ist eine Methode, die Kleingruppen zur
 Zusammenarbeit anleitet, um Lösungsideen für Probleme zu
 entwickeln.” (Seitz 
@@ -364,39 +374,39 @@ entwickeln.” (Seitz
 Versprechen leicht gemachter Weltverbesserung erscheinen Probleme
 dabei nie als strukturell, sondern stets als Folge mangelnder
 Kreativität und Innovationskraft (Seitz 
-&lt;a href=&#34;#ref-Seitz2020&#34;&gt;2020&lt;/a&gt;). &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;#ref-Seitz2020&#34;&gt;2020&lt;/a&gt;).&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;In ähnlicher Weise wurde an der Berner Fachhochschule 2013 ein
 obligatorisches “Coaching-Modul” (heute “SESOK”) eingeführt. Es
 beinhaltet u.a. die Pflicht, seine Selbst- und Sozialkompetenzen
 weiterzuentwickeln, Ziele zu setzen, welche in gewohnter NPM-Manier
 messbar und SMART sein soll. Die vom neuen Geist erzeugte
 Selbstoptimierungsnorm wurde dadurch institutionalisiert, was sich
-wiederum vermarkten lässt. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+wiederum vermarkten lässt.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Die meisten sind Männer. &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;Die meisten sind Männer.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Automatisierte Inhaltsanalyse &amp; Kategorisierung von QAnon-Tweets</title>
-      <link>/post/2020-08-17-categorize-qanon-references-with-machine-learning/</link>
+      <link>https://nomaad.github.io/post/2020-08-17-qanon/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020-08-17-categorize-qanon-references-with-machine-learning/</guid>
+      <guid>https://nomaad.github.io/post/2020-08-17-qanon/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/plotly-binding/plotly.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/typedarray/typedarray.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/rmarkdown-libs/crosstalk/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;/rmarkdown-libs/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/rmarkdown-libs/plotly-htmlwidgets-css/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;/rmarkdown-libs/plotly-main/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/plotly-binding/plotly.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/typedarray/typedarray.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://nomaad.github.io/rmarkdown-libs/crosstalk/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://nomaad.github.io/rmarkdown-libs/plotly-htmlwidgets-css/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/plotly-main/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;Die durch die COVID-19-Pandemie verursachte globale Unsicherheit, führte zu einer zunehmenden Verbreitung von Verschwörungstheorien, darunter die rechtsextreme und trumpistische Verschwörungstheorie &lt;a href=&#34;https://de.wikipedia.org/wiki/QAnon&#34;&gt;QAnon&lt;/a&gt;&lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;.&lt;/p&gt;
@@ -740,9 +750,9 @@ Im Plot wird ersichtlich, dass mit der automatischen Schätzung tendenziell eine
     
     <item>
       <title>Tweets der Legislative zu Corona-Ostern</title>
-      <link>/post/2020-04-12-was-twittert-die-legislative/</link>
+      <link>https://nomaad.github.io/post/2020-04-12-was-twittert-die-legislative/</link>
       <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020-04-12-was-twittert-die-legislative/</guid>
+      <guid>https://nomaad.github.io/post/2020-04-12-was-twittert-die-legislative/</guid>
       <description>
 
 
@@ -752,46 +762,46 @@ Im Plot wird ersichtlich, dass mit der automatischen Schätzung tendenziell eine
 &lt;div id=&#34;alle-parteien&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Alle Parteien&lt;/h1&gt;
 &lt;p&gt;Die erste Wordcloud zeigt die häufigsten Worte aus den Tweets sämtlicher Parteien. &lt;code&gt;COVID&lt;/code&gt; ist mit über 70 Nennungen das am häufigsten erwähnte Wort - welch Wunder. Sowieso erstaunt es wenig, dass das &lt;code&gt;Coronavirus&lt;/code&gt; und die &lt;code&gt;Coronakrise&lt;/code&gt; Top-Themen sind. Auch oft erwähnt werden der &lt;code&gt;Bundesrat&lt;/code&gt; sowie die anlässlich des Coronavirus getroffenen &lt;code&gt;Massnahmen&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/all-1.png&#34; width=&#34;672&#34; /&gt;&lt;img src=&#34;/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/all-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nomaad.github.io/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/all-1.png&#34; width=&#34;672&#34; /&gt;&lt;img src=&#34;https://nomaad.github.io/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/all-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;schweizerische-volkspartei-svp&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Schweizerische Volkspartei (SVP)&lt;/h1&gt;
 &lt;p&gt;Bei der SVP steht in gewohnter Manier die &lt;code&gt;Schweiz&lt;/code&gt; an erster Stelle. Das &lt;code&gt;Coronavirus&lt;/code&gt; erscheint hier selbstverständlich auch, aber nicht als Krise. Auch sind die &lt;code&gt;Massnahmen&lt;/code&gt; des &lt;code&gt;Bundesrates&lt;/code&gt; und der &lt;code&gt;Lockdown&lt;/code&gt; ein Thema.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/svp-1.png&#34; width=&#34;672&#34; /&gt;&lt;img src=&#34;/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/svp-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nomaad.github.io/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/svp-1.png&#34; width=&#34;672&#34; /&gt;&lt;img src=&#34;https://nomaad.github.io/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/svp-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;sozialdemokratische-partei-sp&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Sozialdemokratische Partei (SP)&lt;/h1&gt;
 &lt;p&gt;Bei der SP &lt;code&gt;müssen&lt;/code&gt; nun wohl &lt;code&gt;Massnahmen&lt;/code&gt; ergriffen werden, vermutlich betreffend den &lt;code&gt;Kitas&lt;/code&gt;. Ganz meine Meinung. Hier wird ausserdem weniger über das Coronavirus getwittert, sondern eher über die davon ausgelöste &lt;code&gt;Coronakrise&lt;/code&gt; und die Krankheit &lt;code&gt;COVID&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/sp-1.png&#34; width=&#34;672&#34; /&gt;&lt;img src=&#34;/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/sp-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nomaad.github.io/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/sp-1.png&#34; width=&#34;672&#34; /&gt;&lt;img src=&#34;https://nomaad.github.io/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/sp-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;grüne-partei-der-schweiz-gps&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Grüne Partei der Schweiz (GPS)&lt;/h1&gt;
 &lt;p&gt;Auch bei den Grünen geht es primär um &lt;code&gt;COVID&lt;/code&gt;, jedoch kommt zur &lt;code&gt;Coronakrise&lt;/code&gt; auch noch die &lt;code&gt;Klimakrise&lt;/code&gt; dazu. Das zeigt sich unter anderem auch an weniger häufig genannten Wörtern wie &lt;code&gt;savepeoplenotplanes&lt;/code&gt; oder &lt;code&gt;Luftverkehr&lt;/code&gt;. Spannend finde ich, dass auch bei der zweiten linken Partei der Begriff &lt;code&gt;müssen&lt;/code&gt; unter den häufigsten Wörtern vorkommt. Ausserdem geht es auch bei den Grünen um &lt;code&gt;Massnahmen&lt;/code&gt; und den &lt;code&gt;Bundesrat&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/gruene-1.png&#34; width=&#34;672&#34; /&gt;&lt;img src=&#34;/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/gruene-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nomaad.github.io/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/gruene-1.png&#34; width=&#34;672&#34; /&gt;&lt;img src=&#34;https://nomaad.github.io/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/gruene-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;grüneliberale-partei-glp&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Grüneliberale Partei (glp)&lt;/h1&gt;
 &lt;p&gt;Bei den Grünliberalen geht es anscheinend um Geld, nämlich um &lt;code&gt;Kredite&lt;/code&gt;. Womöglich braucht es für deren Vergabe &lt;code&gt;Kriterien&lt;/code&gt; des &lt;code&gt;Bundesrat&lt;/code&gt; während dieser &lt;code&gt;Krise&lt;/code&gt;?&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/glp-1.png&#34; width=&#34;672&#34; /&gt;&lt;img src=&#34;/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/glp-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nomaad.github.io/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/glp-1.png&#34; width=&#34;672&#34; /&gt;&lt;img src=&#34;https://nomaad.github.io/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/glp-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;fdp.die-liberalen-fdp&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;FDP.Die Liberalen (FDP)&lt;/h1&gt;
 &lt;p&gt;Die Liberalen erwähnen mit &lt;code&gt;fdpliberalen&lt;/code&gt; und &lt;code&gt;fdpag&lt;/code&gt; vor allem sich selber. Bezüglich zweiterem Begriff frage ich mich gerade, ob die FDP nun eine AG werden will? Würde mich ja nicht erstaunen. Aber vielleicht geht’s dann doch eher nur um den Aargau. Ansonsten ist auch hier &lt;code&gt;COVID&lt;/code&gt; und die &lt;code&gt;Coronakrise&lt;/code&gt; Top-Thema, wie auch der Bundesrat (hier aber effizient abgekürzt als &lt;code&gt;br&lt;/code&gt;). Und was ist das denn? Ein Ja zur Sicherheit (&lt;code&gt;sicherheitja&lt;/code&gt;)? Wie das wohl zu verstehen ist? Egal, der Markt wird es schon regeln.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/fdp-1.png&#34; width=&#34;672&#34; /&gt;&lt;img src=&#34;/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/fdp-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nomaad.github.io/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/fdp-1.png&#34; width=&#34;672&#34; /&gt;&lt;img src=&#34;https://nomaad.github.io/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/fdp-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;christlichdemokratische-volkspartei-cvp&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Christlichdemokratische Volkspartei (CVP)&lt;/h1&gt;
 &lt;p&gt;Nicht vergessen gehen sollte bei alledem, dass heute ein Feiertag ist. Die CVP vergisst das nicht. Wie von guten Katholiken nicht anders zu erwarten, steht &lt;code&gt;Ostern&lt;/code&gt; an erster Stelle. Nicht mal &lt;code&gt;COVID&lt;/code&gt; ist wichtiger, obwohl die beiden Begriffe Kopf an Kopf an der Spitze liegen. Die &lt;code&gt;Schweiz&lt;/code&gt; liegt hier zwar nicht ganz so weit vorne wie bei der SVP, aber doch auch auf Rang 3. Ausserdem wird auch hier über den &lt;code&gt;Bundesrat&lt;/code&gt; und Corona in verschiedenen Varianten gezwitschert. Des weiteren taucht ein neuer Akteur auf: die &lt;code&gt;Armee&lt;/code&gt;. Ich spekuliere darauf, dass sich Militärhelme vorzüglich zum “Eiertütschen” in Selbstisolation eignen. Frohe Ostern!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/cvp-1.png&#34; width=&#34;672&#34; /&gt;&lt;img src=&#34;/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/cvp-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nomaad.github.io/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/cvp-1.png&#34; width=&#34;672&#34; /&gt;&lt;img src=&#34;https://nomaad.github.io/post/2020-04-12-was-twittert-die-legislative/index_files/figure-html/cvp-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>My setup for academic writing</title>
-      <link>/post/academic-writing-setup/</link>
+      <link>https://nomaad.github.io/post/academic-writing-setup/</link>
       <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/post/academic-writing-setup/</guid>
+      <guid>https://nomaad.github.io/post/academic-writing-setup/</guid>
       <description>&lt;p&gt;In the past few months I was trying to figure out, how to organize myself in academia for my studies. Especially I wanted to find a neat workflow to quickly take notes during lectures, organize literature and write papers, while not having to deal too much with tedious formatting of citations in specific citation styles or having to struggle with the layout of word documents. Meanwhile I have found a setup, which works pretty well for me. In this post I will have an indepth look at it, while trying to explain everything in a way that is also understandable by non-techies.&lt;/p&gt;
 &lt;p&gt;Before going into details, here is an overview of tools I use:&lt;/p&gt;
 &lt;ul&gt;
@@ -915,7 +925,7 @@ This is a list:
 &lt;p&gt;&lt;img src=&#34;zothero_search.png&#34; alt=&#34;ZotHero Search&#34;&gt;&lt;/p&gt;
 &lt;p&gt;When you found the reference, you can copy the citekey to clipboard with &lt;code&gt;Cmd ⌘ + Enter&lt;/code&gt; and paste it into your editor:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;zothero_result.png&#34; alt=&#34;ZotHero Result&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Yay. But wait. Right now you probably still think: &lt;em&gt;&amp;ldquo;Why all this struggle? I could have done this much easier in Word.&amp;quot;&lt;/em&gt; Let&amp;rsquo;s dive into the fun part.&lt;/p&gt;
+&lt;p&gt;Yay. But wait. Right now you probably still think: &lt;em&gt;&amp;ldquo;Why all this struggle? I could have done this much easier in Word.&amp;rdquo;&lt;/em&gt; Let&amp;rsquo;s dive into the fun part.&lt;/p&gt;
 &lt;h1 id=&#34;converting-markdown-to-word-with-pandoc&#34;&gt;Converting Markdown to Word with Pandoc&lt;/h1&gt;
 &lt;p&gt;Let&amp;rsquo;s recap: We have a paper written in markdown with unique citekeys pointing to our references managed in Zotero. But it&amp;rsquo;s still in makdown and can&amp;rsquo;t be submitted like this. So let&amp;rsquo;s convert it to Word and/or PDF with 
 &lt;a href=&#34;https://pandoc.org/MANUAL.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pandoc&lt;/a&gt;.&lt;/p&gt;
@@ -967,18 +977,18 @@ This is a list:
     
     <item>
       <title>Twitter reactions to the right-wing terrorist shootings in Hanau</title>
-      <link>/post/2020-03-06-hanau-twitter-reactions/</link>
+      <link>https://nomaad.github.io/post/2020-03-06-hanau-twitter-reactions/</link>
       <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020-03-06-hanau-twitter-reactions/</guid>
+      <guid>https://nomaad.github.io/post/2020-03-06-hanau-twitter-reactions/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/plotly-binding/plotly.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/typedarray/typedarray.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/rmarkdown-libs/crosstalk/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;/rmarkdown-libs/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/rmarkdown-libs/plotly-htmlwidgets-css/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;/rmarkdown-libs/plotly-main/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/plotly-binding/plotly.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/typedarray/typedarray.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://nomaad.github.io/rmarkdown-libs/crosstalk/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://nomaad.github.io/rmarkdown-libs/plotly-htmlwidgets-css/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/plotly-main/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;This is a quick exploration of twitter reactions to the right-wing terrorist shootings in Hanau, Germany on 19th february 2020. I played around with this data as an excercise to get in first touch with Twitter analysis with R for sociological research. Most of the code is copied &amp;amp; adapted from &lt;a href=&#34;https://juanitorduz.github.io/text-mining-networks-and-visualization-plebiscito-tweets/&#34;&gt;this tutorial&lt;/a&gt; by &lt;a href=&#34;https://juanitorduz.github.io/&#34;&gt;Dr. Juan Camilo Orduz&lt;/a&gt;.&lt;/p&gt;
@@ -1085,7 +1095,7 @@ wordcloud(
   min.freq = 200,
   colors=brewer.pal(8, &amp;#39;Dark2&amp;#39;)
 )&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-03-06-hanau-twitter-reactions_files/figure-html/hashtags-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nomaad.github.io/post/2020-03-06-hanau-twitter-reactions_files/figure-html/hashtags-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;The tag cloud sheds light on the most used hashtags within the reactions to hanau. Alot of the reactions use either hashtags calling the shooting by the name, as right-wing terrorism/extremism and racism. On the two top ranks are hashtags linking the extreme right AfD-party with the event, as visible in this table of top hashtags.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;hashtags.unnested.count %&amp;gt;%
   arrange(desc(n)) %&amp;gt;%
@@ -1119,9 +1129,9 @@ wordcloud(
     
     <item>
       <title>Der Begriff der Klasse und die Sozialstruktur der Schweiz</title>
-      <link>/post/klassenbegriff-und-sozialstruktur-der-schweiz/</link>
+      <link>https://nomaad.github.io/post/klassenbegriff-und-sozialstruktur-der-schweiz/</link>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/post/klassenbegriff-und-sozialstruktur-der-schweiz/</guid>
+      <guid>https://nomaad.github.io/post/klassenbegriff-und-sozialstruktur-der-schweiz/</guid>
       <description>&lt;p&gt;Der soziologische Begriff der &lt;em&gt;Klasse&lt;/em&gt; war und ist nach wie vor
 umstritten: In den späten 1960er Jahren war sich die Mehrheit der
 Soziolog*innen in Deutschland einig, dass die deutsche Gesellschaft
@@ -1481,10 +1491,10 @@ Theorie Der Praxis.” in: &lt;em&gt;Klassen - Fraktionen - Milieus. Beiträge Z
 Klassenanalyse&lt;/em&gt;, Manuskripte, Berlin: Rosa-Luxemburg Stiftung.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;In diesem Sinne bilden Geist und Natur eine notwendige Einheit
 (vgl. Bateson 
 &lt;a href=&#34;#ref-Bateson2000&#34;&gt;2000&lt;/a&gt;). Begriffe sind jedoch immer
@@ -1496,18 +1506,18 @@ nur begrifflich sich annähernd stattfinden. Dabei wird jedoch nicht
 aufgegeben, das bestimmte “Karten” (Begriffe/Theorien) zutreffender
 für die Beschreibung der “Landschaft” sind als andere (vgl. Bateson
 
-&lt;a href=&#34;#ref-Bateson1983&#34;&gt;1983&lt;/a&gt;: 590). &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;#ref-Bateson1983&#34;&gt;1983&lt;/a&gt;: 590).&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Queer-Theory und das psychophysische Problem</title>
-      <link>/post/queer-theory-und-das-psychophysische-problem/</link>
+      <link>https://nomaad.github.io/post/queer-theory-und-das-psychophysische-problem/</link>
       <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/post/queer-theory-und-das-psychophysische-problem/</guid>
+      <guid>https://nomaad.github.io/post/queer-theory-und-das-psychophysische-problem/</guid>
       <description>&lt;p&gt;Die Unterscheidung von biologischem Geschlecht (sex) und sozialem
 Geschlecht (gender) wurde von feministischen Theoretiker*innen
 eingeführt. Dabei wurde &lt;em&gt;sex&lt;/em&gt; der Sphäre der unveränderlichen Natur und
@@ -1748,14 +1758,14 @@ Leib-Seele-Problem.” Dissertation. Freiburg in Breisgau.&lt;/p&gt;
 Haufen Neuronen sind - und was wir dann sind&lt;/em&gt;. Berlin: epubli.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;“Am Anfang war das Wort, und das Wort war bei Gott, und das Wort
-war Gott.” (Johannes 1:1) &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+war Gott.” (Johannes 1:1)&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;“Es ist nicht das Bewusstsein der Menschen, das ihr Sein, sondern
 umgekehrt ihr gesellschaftliches Sein, das ihr Bewusstsein
 bestimmt.” (Marx &amp;amp; Engels 
@@ -1767,18 +1777,18 @@ Subjekt verwandelt, der Demiurg des Wirklichen, das nur seine äußere
 Erscheinung bildet. Bei mir ist umgekehrt das Ideelle nichts andres
 als das im Menschenkopf umgesetzte und übersetzte Materielle.” (Marx
 &amp;amp; Engels 
-&lt;a href=&#34;#ref-Marx1968&#34;&gt;1968&lt;/a&gt;: 27). &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;#ref-Marx1968&#34;&gt;1968&lt;/a&gt;: 27).&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Social-Egg-Freezing und Social Reproduction Theory</title>
-      <link>/post/social-egg-freezing-und-social-reproduction-theory/</link>
+      <link>https://nomaad.github.io/post/social-egg-freezing-und-social-reproduction-theory/</link>
       <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/post/social-egg-freezing-und-social-reproduction-theory/</guid>
+      <guid>https://nomaad.github.io/post/social-egg-freezing-und-social-reproduction-theory/</guid>
       <description>&lt;p&gt;Unter Egg-Freezing oder “Eizellenvorsorge” (Hotz 
 &lt;a href=&#34;#ref-Hotz2017&#34;&gt;2017&lt;/a&gt;:1) wird das vorsorgliche Entnehmen, Einfrieren und Aufbewahren von
 Eizellen einer Frau verstanden, um mit diesen zu einem späteren
@@ -2235,34 +2245,34 @@ of future fertility.” &lt;em&gt;Culture, health &amp;amp; sexuality.&lt;/em&gt
 Blessing for Women Today?” &lt;em&gt;Swiss Medical Weekly&lt;/em&gt; 143: w13746.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;Für einige feministische Theoretikerinnen wie Shulamit Firestone
 oder Donna Haraway galt die Befreiung der Frauen von der Last der
 Schwangerschaft durch Reproduktionstechnologien als Utopie, während
 von anderen, wie beispielsweise Bielefelder Ökofeministinnen in den
 1980ern, der Einsatz von Reproduktionstechnologien als ultimative
 patriarchale Aneignung der Schwangerschaft als letztes Eigentum der
-Frauen dystopisch interpretiert wurden. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+Frauen dystopisch interpretiert wurden.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;Vogel weist darauf hin, dass die Arbeitskräfte auch durch
 Immigration oder Sklaverei ersetzt werden können (Vogel
 
-&lt;a href=&#34;#ref-Vogel2013&#34;&gt;2013&lt;/a&gt;: 145). &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;#ref-Vogel2013&#34;&gt;2013&lt;/a&gt;: 145).&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Zum Begriff der Autorität bei Hannah Arendt</title>
-      <link>/post/zum-begriff-der-autoritaet-bei-hannah-arendt/</link>
+      <link>https://nomaad.github.io/post/zum-begriff-der-autoritaet-bei-hannah-arendt/</link>
       <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/post/zum-begriff-der-autoritaet-bei-hannah-arendt/</guid>
+      <guid>https://nomaad.github.io/post/zum-begriff-der-autoritaet-bei-hannah-arendt/</guid>
       <description>&lt;p&gt;In der 2012 publizierten Essay-Sammlung “Zwischen Vergangenheit und
 Zukunft - Übungen im politischen Denken” geht Hannah Arendt im sechsten
 Kapitel der Frage nach, was Autorität sei (Arendt
@@ -2712,9 +2722,9 @@ korrigierter Nachdruck. Wiesbaden: Springer.&lt;/p&gt;
     
     <item>
       <title>Radikale und deliberative Demokratietheorie</title>
-      <link>/post/radikale-und-deliberative-demokratietheorie/</link>
+      <link>https://nomaad.github.io/post/radikale-und-deliberative-demokratietheorie/</link>
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/post/radikale-und-deliberative-demokratietheorie/</guid>
+      <guid>https://nomaad.github.io/post/radikale-und-deliberative-demokratietheorie/</guid>
       <description>&lt;p&gt;Was ist radikale Demokratietheorie? Charakteristisch für dieselbe seien
 drei Spielarten, welche, je ausgeprägter sie sind, einer
 Demokratietheorie umso stärker das Attribut der Radikalität verleihen
