@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Matthias Zaugg</title>
+    <link>https://nomaad.github.io/posts/</link>
+    <description>Recent content in Posts on Matthias Zaugg</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>de</language>
+    <lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nomaad.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Partizipatorische, radikale und deliberative Demokratie</title>
+      <link>https://nomaad.github.io/posts/partizipatorische-radikale-deliberative-demokratie/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/posts/partizipatorische-radikale-deliberative-demokratie/</guid>
+      <description>Eine Rekonstruktion verschiedener demokratietheoretischer Linien und eine Gegenkritik der radikaldemokratischen Kritik an Habermas deliberativer Demokratietheorie.</description>
+    </item>
+    <item>
+      <title>Hausarbeit Faschismusforschung - Theodore Abel Papers</title>
+      <link>https://nomaad.github.io/posts/theodore-abel-papers/</link>
+      <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/posts/theodore-abel-papers/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Dieser Text entstand im Rahmen des Lektürekurses von Erich Fromms Studie &amp;ldquo;Arbeiter und Angestellte am Vorabend des dritten Reiches. &amp;quot;
+bei Dr. des. Simon Schaupp im Frühlingssemester 2021 an der Universität Basel.&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;einleitung&#34;&gt;Einleitung&lt;/h1&gt;
+&lt;p&gt;Der Soziologe Theodore Abel schrieb 1934 während eines
+Forschungsaufenthaltes in Deutschland in Zusammenarbeit mit der NSDAP
+einen Fake-Wettbewerb aus, um Lebensgeschichten von Nationalsozialisten
+zu erhalten, welche vor 1933 in die NSDAP eingetreten waren. Diesen
+Kniff wählte er, weil es ihm zuvor als amerikanischer Soziologe nicht
+gelungen ist, auch nur eines der 850&#39;000 NSDAP-Mitglieder zu
+interviewen. Durch den Wettbewerb, welcher sogar von
+NS-Propagandaminister Goebbels unterstützt wurde, sammelte Abel 683
+autobiografische Berichte, welche als Grundlage für sein Buch &amp;ldquo;Why
+Hitler came to power&amp;rdquo; dienten (&lt;a href=&#34;#ref-Abel1966&#34;&gt;Abel 1966&lt;/a&gt;). 584 dieser
+Dokumente wurden kürzlich als Digitalisate veröffentlicht (&lt;a href=&#34;#ref-Abel1930&#34;&gt;Abel
+1930&amp;ndash;1945&lt;/a&gt;).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Auf dem Weg zu einer solutionistischen Sozialen Arbeit?</title>
+      <link>https://nomaad.github.io/posts/auf-dem-weg-zu-einer-solutionistischen-sozialen-arbeit/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/posts/auf-dem-weg-zu-einer-solutionistischen-sozialen-arbeit/</guid>
+      <description>Seit 2019 kann an der FHNW ein Bachelor-Diplom in Sozialer Arbeit auch in ‘Freiform’ erworben werden. Geht es bei der neuen Studienform um einen progressiveren Zugang zu Bildung? Nein. Vielmehr helfen die Hochschulen dem Spätkapitalismus stabil zu bleiben, indem sie die neuen Geister des Kapitalismus institutionell adoptieren. In diesem Essay wird für politisches Ghostbusting plädiert, statt ‘agile’ Lernumgebungen zu kreieren und blind auf jeder Digitalisierungswelle mitzureiten.</description>
+    </item>
+    <item>
+      <title>Automatisierte Inhaltsanalyse &amp; Kategorisierung von QAnon-Tweets</title>
+      <link>https://nomaad.github.io/posts/2020-08-17-categorize-qanon-references-with-machine-learning/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/posts/2020-08-17-categorize-qanon-references-with-machine-learning/</guid>
+      <description>Die COVID-19-Pandemie führte zu einer ansteigenden Verbreitung der rechtsextremen Verschwörungstheorie QAnon. In diesem Beitrag wird dies anhand von Twitterdaten empirisch überprüft. Zusätzlich wird mit einer nonparametrischen, automatisierten Inhaltsanalyse  (readme2) eingeschätzt, wieviele der Tweets sich  affirmativ bzw. kritisch auf QAnon beziehen.</description>
+    </item>
+    <item>
+      <title>Tweets der Legislative zu Corona-Ostern</title>
+      <link>https://nomaad.github.io/posts/2020-04-12-was-twittert-die-legislative/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/posts/2020-04-12-was-twittert-die-legislative/</guid>
+      <description>&lt;p&gt;Im Lockdown am Ostersonntag wollte ich wissen, was eigentlich National- und Ständeräte der Schweiz zu dieser Zeit so twittern. Dazu habe ich ein RMarkdown-Skript geschrieben (&lt;a href=&#34;https://github.com/nomaad/learnR/blob/master/2020-04-12-was-twittert-die-legislative.Rmd&#34;&gt;Quellcode&lt;/a&gt;). Hier die Resultate.&lt;/p&gt;
+&lt;p&gt;Zuerst ein paar Worte zum Vorgehen. Das &lt;a href=&#34;https://digdemlab.io/&#34;&gt;Digital Democracy Lab&lt;/a&gt; der Universität Zürich hat für die Wahlen letzten Herbst &lt;a href=&#34;https://github.com/DigDemLab/chvote19_accounts&#34;&gt;zwei Datasets&lt;/a&gt; mit allen National- und Ständeratskandidat*innen zusammengetragen. Darin befinden sich auch persönliche Websiten sowie Social-Media-Accounts der Politiker*innen, sofern sie solche besitzen. Diese Daten habe ich kombiniert mit einer Excel-Datei der aktuellen Ratsmitgliedern von &lt;a href=&#34;https://www.parlament.ch/de/ratsmitglieder&#34;&gt;parlament.ch&lt;/a&gt;. Anschliessend habe ich alle Datensätze ohne Twitter-Account rausgefiltert.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My setup for academic writing</title>
+      <link>https://nomaad.github.io/posts/academic-writing-setup/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/posts/academic-writing-setup/</guid>
+      <description>&lt;p&gt;In the past few months I was trying to figure out, how to organize myself in academia for my studies. Especially I wanted to find a neat workflow to quickly take notes during lectures, organize literature and write papers, while not having to deal too much with tedious formatting of citations in specific citation styles or having to struggle with the layout of word documents. Meanwhile I have found a setup, which works pretty well for me. In this post I will have an indepth look at it, while trying to explain everything in a way that is also understandable by non-techies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Twitter reactions to the right-wing terrorist shootings in Hanau</title>
+      <link>https://nomaad.github.io/posts/2020-03-06-hanau-twitter-reactions/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/posts/2020-03-06-hanau-twitter-reactions/</guid>
+      <description>&lt;link href=&#34;https://nomaad.github.io/rmarkdown-libs/htmltools-fill/fill.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/plotly-binding/plotly.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/typedarray/typedarray.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://nomaad.github.io/rmarkdown-libs/crosstalk/css/crosstalk.min.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://nomaad.github.io/rmarkdown-libs/plotly-htmlwidgets-css/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://nomaad.github.io/rmarkdown-libs/plotly-main/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;This is a quick exploration of twitter reactions to the right-wing terrorist shootings in Hanau, Germany on 19th february 2020. I played around with this data as an excercise to get in first touch with Twitter analysis with R for sociological research. Most of the code is based this &lt;a href=&#34;https://juanitorduz.github.io/text-mining-networks-and-visualization-plebiscito-tweets/&#34;&gt;this tutorial&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;load-packages&#34;&gt;Load Packages&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Data Import&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;jsonlite&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Data Wrangling and Visualization&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;magrittr&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# for piped function calls with %&amp;gt;%&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;plotly&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tidyverse&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Date &amp;amp; Time Manipulation.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;hms&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;lubridate&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Text Mining&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tidytext&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;wordcloud&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#Set notebook directory.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;MAIN.DIR&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;here&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;::&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;here&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;read-the-data&#34;&gt;Read the data&lt;/h2&gt;
+&lt;p&gt;Load the data dump from the JSON-file.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Queer-Theory und das psychophysische Problem</title>
+      <link>https://nomaad.github.io/posts/queer-theory-und-das-psychophysische-problem/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/posts/queer-theory-und-das-psychophysische-problem/</guid>
+      <description>Frühere feministische Theorien betonten die Trennung zwischen biologischem Geschlecht (sex) und sozialem Geschlecht (gender). Dabei wurde sex der Sphäre der unveränderlichen Natur und gender der Sphäre der veränderlichen Kultur zugeordnet. Judith Butler hinterfragte diese Trennung und theoretisierte auch das biologische Geschlecht als diskursive Kategorie. Diese Thematik wird hier vor dem Hintergrund des psychophysischen Problems der theoretischen Philosophie betrachtet.</description>
+    </item>
+    <item>
+      <title>Social-Egg-Freezing und Social Reproduction Theory</title>
+      <link>https://nomaad.github.io/posts/social-egg-freezing-und-social-reproduction-theory/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/posts/social-egg-freezing-und-social-reproduction-theory/</guid>
+      <description>Wie kann die reproduktionstechnologische Praxis des Social-Egg-Freezings unter dem Blickwinkel der marxistisch-feministischen Social Reproduction Theory betrachtet werden? Social-Egg-Freezing ist ein willkommenes Mittel, den kapitalistischen Widerspruch zwischen generationaler Reproduktion und Mehrwertmaximierung aufzulösen, so die These in diesem Beitrag.</description>
+    </item>
+    <item>
+      <title>Zum Begriff der Autorität bei Hannah Arendt</title>
+      <link>https://nomaad.github.io/posts/zum-begriff-der-autoritaet-bei-hannah-arendt/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/posts/zum-begriff-der-autoritaet-bei-hannah-arendt/</guid>
+      <description>In ihrer 2012 publizierten Essay-Sammlung &amp;lsquo;Zwischen Vergangenheit und Zukunft - Übungen im politischen Denken&amp;rsquo; geht Hannah Arendt der Frage nach, was Autorität sei. Ihr Autoritärsbegriff wird in diesem Essay einem gruppendynamischen begründeten Begriff von Autorität gegenübergestellt mit dem Ziel, Autorität als soziologische Kategorie zu schärfen.</description>
+    </item>
+    <item>
+      <title>Radikale und deliberative Demokratietheorie</title>
+      <link>https://nomaad.github.io/posts/radikale-und-deliberative-demokratietheorie/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/posts/radikale-und-deliberative-demokratietheorie/</guid>
+      <description>Im Handbuch &amp;lsquo;Radikale Demokratietheorie&amp;rsquo; wird der deliberativen Demokratietheorie vorgeworfen, sie nähme Kontingenz nicht ernst. Ausserdem solle sie sich statt an Konsens an Dissens orientieren. Gegenkritik einer verkürzten Perspektive.</description>
+    </item>
+  </channel>
+</rss>

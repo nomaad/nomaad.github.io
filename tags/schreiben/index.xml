@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Schreiben on Matthias Zaugg</title>
+    <link>https://nomaad.github.io/tags/schreiben/</link>
+    <description>Recent content in Schreiben on Matthias Zaugg</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>de</language>
+    <lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nomaad.github.io/tags/schreiben/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My setup for academic writing</title>
+      <link>https://nomaad.github.io/posts/academic-writing-setup/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/posts/academic-writing-setup/</guid>
+      <description>&lt;p&gt;In the past few months I was trying to figure out, how to organize myself in academia for my studies. Especially I wanted to find a neat workflow to quickly take notes during lectures, organize literature and write papers, while not having to deal too much with tedious formatting of citations in specific citation styles or having to struggle with the layout of word documents. Meanwhile I have found a setup, which works pretty well for me. In this post I will have an indepth look at it, while trying to explain everything in a way that is also understandable by non-techies.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

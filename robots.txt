@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nomaad.github.io/sitemap.xml

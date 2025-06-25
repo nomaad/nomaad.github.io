@@ -1,16 +1,96 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags | Matthias Zaugg</title>
+    <title>Tags on Matthias Zaugg</title>
     <link>https://nomaad.github.io/tags/</link>
-      <atom:link href="https://nomaad.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Tags</title>
-      <link>https://nomaad.github.io/tags/</link>
-    </image>
-    
+    <description>Recent content in Tags on Matthias Zaugg</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>de</language>
+    <lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nomaad.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demokratie</title>
+      <link>https://nomaad.github.io/tags/demokratie/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/tags/demokratie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Autoritärer Charakter</title>
+      <link>https://nomaad.github.io/tags/autorit%C3%A4rer-charakter/</link>
+      <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/tags/autorit%C3%A4rer-charakter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rechtsextremismus</title>
+      <link>https://nomaad.github.io/tags/rechtsextremismus/</link>
+      <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/tags/rechtsextremismus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bildung</title>
+      <link>https://nomaad.github.io/tags/bildung/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/tags/bildung/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kapitalismus</title>
+      <link>https://nomaad.github.io/tags/kapitalismus/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/tags/kapitalismus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soziale Arbeit</title>
+      <link>https://nomaad.github.io/tags/soziale-arbeit/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/tags/soziale-arbeit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quantitative Textanalyse</title>
+      <link>https://nomaad.github.io/tags/quantitative-textanalyse/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/tags/quantitative-textanalyse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Schreiben</title>
+      <link>https://nomaad.github.io/tags/schreiben/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/tags/schreiben/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://nomaad.github.io/tags/tools/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/tags/tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Epistemologie</title>
+      <link>https://nomaad.github.io/tags/epistemologie/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/tags/epistemologie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geschlecht</title>
+      <link>https://nomaad.github.io/tags/geschlecht/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/tags/geschlecht/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soziale Reproduktion</title>
+      <link>https://nomaad.github.io/tags/soziale-reproduktion/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://nomaad.github.io/tags/soziale-reproduktion/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
