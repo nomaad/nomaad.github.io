@@ -6,25 +6,8 @@
     <description>Recent content on Matthias Zaugg</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://nomaad.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Über mich</title>
-      <link>https://nomaad.github.io/about/</link>
-      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://nomaad.github.io/about/</guid>
-      <description>&lt;h3 id=&#34;hallo&#34;&gt;Hallo,&lt;/h3&gt;
-&lt;p&gt;mein Name ist Matthias. Ich bin Soziologe &amp;amp; Sozialarbeiter und veröffentliche hier nid gäbige&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; Texte.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;&lt;strong&gt;nid&lt;/strong&gt;, (Berndeutsch) &amp;ldquo;nicht&amp;rdquo;. &lt;strong&gt;gäbig&lt;/strong&gt;, (Berndeutsch) &amp;ldquo;praktisch&amp;rdquo;, &amp;ldquo;gut brauchbar&amp;rdquo;, &amp;ldquo;handlich&amp;rdquo;, &amp;ldquo;bequem&amp;rdquo;, &amp;ldquo;passend&amp;rdquo;, &amp;ldquo;günstig&amp;rdquo; (für Dinge), &amp;ldquo;angenehm&amp;rdquo;, &amp;ldquo;sympathisch&amp;rdquo;, &amp;ldquo;umgänglich&amp;rdquo; (für Menschen).
-Das emanzipatorische Interesse von Ideologiekritik ist oftmals &amp;ldquo;nid gäbig&amp;rdquo; für den Alltagsverstand
-und vermeintliche Selbstverständlichkeiten in der Gesellschaft. Gelingende Soziologie stört öfter
-als ihr lieb ist. Somit sind auch Soziolog:innen selbst oft &amp;ldquo;nid Gäbige&amp;rdquo; innerhalb
-ideologischer gesellschaftlicher Verhältnisse.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Partizipatorische, radikale und deliberative Demokratie</title>
       <link>https://nomaad.github.io/posts/partizipatorische-radikale-deliberative-demokratie/</link>
@@ -144,11 +127,15 @@ Dokumente wurden kürzlich als Digitalisate veröffentlicht (&lt;a href=&#34;#re
       <description>Im Handbuch &amp;lsquo;Radikale Demokratietheorie&amp;rsquo; wird der deliberativen Demokratietheorie vorgeworfen, sie nähme Kontingenz nicht ernst. Ausserdem solle sie sich statt an Konsens an Dissens orientieren. Gegenkritik einer verkürzten Perspektive.</description>
     </item>
     <item>
-      <title></title>
-      <link>https://nomaad.github.io/showcase/</link>
+      <title>Über mich</title>
+      <link>https://nomaad.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nomaad.github.io/showcase/</guid>
-      <description></description>
+      <guid>https://nomaad.github.io/about/</guid>
+      <description>&lt;p&gt;Ich bin ein interdisziplinär ausgebildeter Sozialforscher mit einem früheren Hintergrund in der Softwareentwicklung. Mein Schwerpunkt liegt auf der Analyse gesellschaftlicher Prozesse im
+Kontext von Digitalisierung (digitaler Kapitalismus &amp;amp; digitale Öffentlichkeit), Prozessen der (Ent-)Demokratisierung, direkter Demokratie, sozialer Ungleichheit und politischer Ökonomie. Ich lebe in Wien.&lt;/p&gt;
+&lt;!--Durch mein Studium der Sozialen Arbeit (BSc) und Soziologie (MA), einer Ausbildung als Softwareentwickler sowie meiner Praxiserfahrung in unterschiedlichen Bereichen der Sozialen Arbeit (ca. 8 Jahre), der Softwareentwicklung (ca. 9 Jahre) und als soziologischer Hilfsassistent an der Uni (2 Jahre), 
+bringe ich fundiertes Feldverständnis und ein breites Wissens- und Erfahrungsspektrum mit.--&gt;
+&lt;p&gt;Auf diesem Portfolio veröffentliche ich essayistische Texte, kleine Projekte in quantitativer Textanalyse, technische Blogposts oder Hinweise auf Preprints/Publikationen.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nomaad.github.io/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nomaad.github.io/about/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nomaad.github.io/alltagsgedanken/</loc>
-    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nomaad.github.io/categories/</loc>
     <lastmod>2022-01-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -18,6 +9,9 @@
     <lastmod>2022-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nomaad.github.io/categories/essays/</loc>
+    <lastmod>2022-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nomaad.github.io/</loc>
     <lastmod>2022-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nomaad.github.io/posts/partizipatorische-radikale-deliberative-demokratie/</loc>
@@ -95,6 +89,8 @@
     <loc>https://nomaad.github.io/posts/radikale-und-deliberative-demokratietheorie/</loc>
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nomaad.github.io/showcase/</loc>
+    <loc>https://nomaad.github.io/search/</loc>
+  </url><url>
+    <loc>https://nomaad.github.io/about/</loc>
   </url>
 </urlset>
